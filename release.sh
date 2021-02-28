@@ -115,12 +115,13 @@ function GenerateRules() {
     case ${software_name} in
         adguardhome)
             domestic_dns=(
-                "https://doh.pub:443/dns-query"
-                "tls://dns.alidns.com:853"
+                "tls://dns.pub"
+                "tls://dns.alidns.com"
             )
             foreign_dns=(
-                "https://doh.opendns.com:443/dns-query"
-                "tls://dns.google:853"
+                #"8.8.8.8"
+                "tls://1.1.1.1"
+                #"208.67.222.222"
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
@@ -224,11 +225,12 @@ function GenerateRules() {
         dnsmasq)
             domestic_dns=(
                 "119.29.29.29#53"
-                "223.5.5.5#53"
+                #"223.5.5.5#53"
             )
             foreign_dns=(
-                "208.67.222.222#53"
-                "8.8.8.8#53"
+                #"208.67.222.222#53"
+                "1.1.1.1#53"
+                #"8.8.8.8#53"
             )
             if [ "${generate_mode}" == "full" ]; then
                 if [ "${generate_file}" == "black" ]; then
