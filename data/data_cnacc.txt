@@ -23,7 +23,7 @@ doh.pub
 # it-global.cn #8
 @it-global.cn
 # jsDelivr
-@jsdelivr.net
+@cdn.jsdelivr.net
 # 钱美流量 #8
 ssnm.xyz
 # 上海闪耀信息科技有限公司 / 闪耀科技 #8
