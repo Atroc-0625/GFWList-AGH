@@ -26,6 +26,7 @@ desktop.githubusercontent.com
 # Google DNS
 dns.google
 # jsDelivr
+!cdn.jsdelivr.net
 !jsdelivr.net
 # OpenDNS
 doh.opendns.com
