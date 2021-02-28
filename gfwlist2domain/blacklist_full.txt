@@ -771,6 +771,7 @@
 233yes.com
 234.slyip.net
 234567m.com
+234579.com
 234k7.com
 234xz.com
 23656.com
@@ -847,7 +848,6 @@
 265958.com
 265vip.com
 266.etowns.org
-266248.com
 266660.com
 266908.com
 268.etowns.org
@@ -869,7 +869,6 @@
 28.flnet.org
 28.slyip.net
 2804.ca227.com
-2805f.com
 2805u.com
 281155l.com
 28365365.com
@@ -976,7 +975,6 @@
 3201380.com
 3206.ca372.com
 32134.com
-321365.net
 322.effers.com
 322518.com
 322652.com
@@ -1149,7 +1147,6 @@
 3proxy.ru
 3ren.blog
 3ren.ca
-3rt.tace.ru
 3ruwl5q.x.incapdns.net
 3s3s.org
 3tui.net
@@ -1351,7 +1348,6 @@
 52040h.com
 5207470.com
 5208bb.com
-520aa.tv
 520call.me
 520cc.me
 520ccc.cc
@@ -1504,13 +1500,11 @@
 5min.at
 5mm.am
 5pool.com
-5rt.tace.ru
 5s7uo.cn
 5uf7.com
 5uproxy.net
 5visions.com
 5vpn.net
-5vst8h.cn
 5xen.com
 5xml.com
 5ye8.com
@@ -1674,7 +1668,6 @@
 6hccbb.com
 6hch.com
 6i7mwo7.x.incapdns.net
-6j6.top
 6mn2.changeip.net
 6pal.consobaby.com
 6park.com
@@ -1721,6 +1714,7 @@
 725o.r3.cr.rs
 727432.com
 72jd.com
+72k.us
 73.slyip.net
 730bm.com
 73167.com
@@ -2314,7 +2308,6 @@ a.hyperoi.com
 a.jjqyk.com
 a.kidstaff.net
 a.klaviyo.com
-a.kubik3.ru
 a.letsjerk.to
 a.libertystmedia.com
 a.ligatus.com
@@ -2374,11 +2367,7 @@ a02342.bournemouthecho.co.uk
 a02342.brentwoodlive.co.uk
 a02342.bridportnews.co.uk
 a02342.bucksfreepress.co.uk
-a02342.chelmsfordweeklynews.co.uk
-a02342.chorleycitizen.co.uk
 a02342.clactonandfrintongazette.co.uk
-a02342.cotswoldjournal.co.uk
-a02342.cravenherald.co.uk
 a02342.dailyecho.co.uk
 a02342.darlingtonandstocktontimes.co.uk
 a02342.dorsetecho.co.uk
@@ -2386,33 +2375,21 @@ a02342.droitwichadvertiser.co.uk
 a02342.falmouthpacket.co.uk
 a02342.freepressseries.co.uk
 a02342.gazetteherald.co.uk
-a02342.gazetteseries.co.uk
 a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
 a02342.guardian-series.co.uk
-a02342.halsteadgazette.co.uk
-a02342.hampshirechronicle.co.uk
-a02342.harrowtimes.co.uk
 a02342.harwichandmanningtreestandard.co.uk
 a02342.heraldscotland.com
-a02342.kidderminstershuttle.co.uk
 a02342.ledburyreporter.co.uk
-a02342.leighjournal.co.uk
-a02342.ludlowadvertiser.co.uk
-a02342.newsshopper.co.uk
 a02342.northwichguardian.co.uk
 a02342.penarthtimes.co.uk
 a02342.redditchadvertiser.co.uk
 a02342.redhillandreigatelife.co.uk
 a02342.romseyadvertiser.co.uk
-a02342.runcornandwidnesworld.co.uk
 a02342.salisburyjournal.co.uk
 a02342.southendstandard.co.uk
-a02342.southwestfarmer.co.uk
 a02342.stalbansreview.co.uk
-a02342.swindonadvertiser.co.uk
 a02342.theboltonnews.co.uk
-a02342.thenational.scot
 a02342.thenorthernecho.co.uk
 a02342.thescottishfarmer.co.uk
 a02342.thetelegraphandargus.co.uk
@@ -5006,6 +4983,9 @@ ait.org.tw
 aituzi.com
 aitype.net
 aiuu2.com
+aiv-cdn.net
+aiv-cdn.net.c.footprint.net
+aiv-delivery.net
 aiweiwei.com
 aiweiweiblog.com
 aiyole.com
@@ -7091,6 +7071,8 @@ attwifi.com
 attwirelessinternet.com
 attwirelessonline.com
 attwirelesssolutions.com
+atv-ext.amazon.com
+atv-ps.amazon.com
 atv98.com
 atwola.com
 atypi.org
@@ -7606,6 +7588,7 @@ ballive.com
 baltimorebmw.com
 baltimorecity.gov
 bamboome.sk
+bamgrid.com
 baminw.cn
 bamsoftware.com
 bamulat.blogspot.hu
@@ -11564,6 +11547,7 @@ cdn.popcash.net
 cdn.popmyads.com
 cdn.printfriendly.com
 cdn.pulpix.com
+cdn.registerdisney.go.com
 cdn.relaido.jp
 cdn.resonate.com
 cdn.rhombusads.com
@@ -14067,6 +14051,7 @@ cwbbooks.com
 cweb-pix.com
 cwpush.com
 cws-cctv.conviva.com
+cws.conviva.com
 cx.atdmt.com
 cx.v2ray.cx
 cxh.me
@@ -15697,6 +15682,7 @@ disneynewseries.com
 disneynow.com
 disneypeoplesurveys.com
 disneyplus.com
+disneyplus.com.ssl.sc.omtrdc.net
 disneyredirects.com
 disneysrivieraresort.com
 disneystore.com
@@ -16327,6 +16313,7 @@ dsp.colpirio.com
 dspguide.com
 dsptrack.mobshark.net
 dss9927.com
+dssott.com.akamaized.net
 dstk.dk
 dstrchina.cn
 dsvload.net
@@ -18750,6 +18737,7 @@ fb.com
 fb.fartit.com
 fb.gg
 fb.me
+fb.watch
 fbacebook.com
 fbaddins.com
 fbbmarket.com

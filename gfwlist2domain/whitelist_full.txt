@@ -2141,7 +2141,6 @@
 1y0g.com
 1y2y.com
 1yabc.com
-1yaoda.com
 1yee.com
 1ykh.com
 1yuanzheng.com
@@ -2663,7 +2662,6 @@
 2cname.com
 2cp.com
 2cq.com
-2cto.com
 2cy.news
 2cycd.com
 2cyxw.com
@@ -2951,7 +2949,6 @@
 33iq.com
 33jianzhi.com
 33jzw.com
-33lc.com
 33ly.com
 33map.com
 33map.net
@@ -3349,10 +3346,6 @@
 38238r.com
 3837.cc
 3839.com
-3839app.net
-3839img.com
-3839pic.com
-3839video.com
 383yun.com
 3843zz.com
 386w.com
@@ -4463,7 +4456,6 @@
 51yam.com
 51yangsheng.com
 51yasai.com
-51yes.com
 51yey.com
 51yhdai.com
 51yilu.com
@@ -5758,7 +5750,6 @@
 6pmcn.com
 6puppy.xyz
 6renyou.com
-6rooms.com
 6s4qki.com
 6sfg.com
 6sq.net
@@ -5819,7 +5810,6 @@
 7130mgm.com
 71360.com
 7139.com
-714.com
 714.hk
 715083.com
 7152223.com
@@ -6428,7 +6418,6 @@
 86amsdy.com
 86app.com
 86art.net
-86campus.com
 86clouds.com
 86control.com
 86ditu.com
@@ -6937,7 +6926,6 @@
 91youban.com
 91yuandian.com
 91yuedu.com
-91yunxiao.com
 91yunying.com
 91yxbox.com
 91zhiwang.com
@@ -7102,14 +7090,12 @@
 95516.net
 95520saturday.hqnpwzu.cn
 95526.mobi
-9553.com
 9557.com
 95572.com
 95579.com
 95588.com
 95598pay.com
 95599.hk
-955yes.com
 955yx.com
 9560.cc
 9564.com
@@ -7244,7 +7230,6 @@
 97you.net
 97yrbl.com
 9800.com
-98201111.com
 984g.com
 985.so
 98523.com
@@ -7652,7 +7637,6 @@ a1.itc.cn
 a1.liuxue86.com
 a1.lshou.com
 a1.mingyihui.net
-a1.mzstatic.com
 a1.openxt.cn
 a1.peoplecdn.cn
 a1.q6u.com
@@ -7675,7 +7659,6 @@ a1662.oadz.com
 a1714.com
 a1click.cpc.sogou.com
 a2.img.static.youmi.net
-a2.mzstatic.com
 a2.openxt.cn
 a2.rabbitpre.com
 a2.xinhuanet.com
@@ -7691,14 +7674,11 @@ a3.allyes.com
 a3.ikafan.com
 a3.img.static.youmi.net
 a3.jandan.net
-a3.mzstatic.com
 a32a.com.cn
 a3p4.com
 a4.b2b168.com
 a4.ikafan.com
-a4.mzstatic.com
 a4s6.com
-a5.mzstatic.com
 a5.net
 a5628.com
 a5805.com
@@ -7827,7 +7807,6 @@ aboatedu.com
 aboboo.com
 aboilgame.com
 abooky.com
-aboutamazon.cn
 aboutcg.com
 aboutcg.net
 aboutcg.org
