@@ -19,14 +19,11 @@ cn.bing.com
 www.bing.com
 # DNSPod
 dns.pub
-dot.pub
 doh.pub
-# 抖音 #10
-@douyincdn.com
 # it-global.cn #8
 @it-global.cn
 # jsDelivr
-@cdn.jsdelivr.net
+@jsdelivr.net
 # 钱美流量 #8
 ssnm.xyz
 # 上海闪耀信息科技有限公司 / 闪耀科技 #8
@@ -34,4 +31,19 @@ ssnm.xyz
 @global-idc.net
 # UC 浏览器 #8
 uc.cn
+@uczzd.cn
+# 抖音 cdn
+@douyincdn.com
+# wps
+@wps.cn
+# 腾讯 tdn
+@tdnsv5.com
+# 金山云 cdn
+@ksyuncdn.com
+# 网宿 cdn
+@wsglb0.com
+# 六盘
+@2dland.cn
+# 苹果cdn 中国土木
+#@akadns.net
 ## CNACC 列表 - 结束
