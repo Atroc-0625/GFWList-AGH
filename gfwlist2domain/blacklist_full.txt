@@ -3511,6 +3511,7 @@ ad.wsod.com
 ad.wynk.in
 ad.wz.cz
 ad.xmovies8.ru
+ad.xmovies8.si
 ad.xrea.com
 ad.yadro.ru
 ad.yemeksepeti.com
@@ -8847,7 +8848,6 @@ bbc.com
 bbc.de
 bbc.in
 bbcchinese.com
-bbcdn.go.arbopl.bbelements.com
 bbci.co.uk
 bbclearningenglish.com
 bbcmundo.com
@@ -9805,7 +9805,6 @@ bingads.com
 bingads.microsoft.com
 bingagencyawards.com
 bingapistatistics.com
-bingdiantao.com
 bingfeng.tw
 bingj.com
 bingparachute.com
@@ -21664,7 +21663,6 @@ fizzik.com
 fj95560.com
 fjhongou.com
 fjqtyu.bethowen.ru
-fjtzjy.com
 fk-book.com
 fk.mrcat.bet
 fkapi.net
@@ -27188,7 +27186,6 @@ img-9gag-fun.9cache.com
 img-a2.ak.imagevz.net
 img-cdn.appinn.net
 img-prod-cms-rt-microsoft-com.akamaized.net
-img-s-msn-com.akamaized.net
 img.2222.moe
 img.7clink.com
 img.ak.impact-ad.jp
@@ -31871,7 +31868,6 @@ lw84.com
 lwmn.net
 lww.com
 lwxlsj.wap.xsbiquge.com
-lwxtd.com
 lxoemc.virgilio.it
 lxsway.nyheter24.se
 lxty8.com
@@ -44745,6 +44741,7 @@ securenetconnection.com
 securepaypal.info
 secureproxysite.com
 secureserver.net
+secureservercdn.net
 secureshoppingbasket.com
 securestudies.com
 securetags.esri.cl
@@ -62381,6 +62378,7 @@ xmlppcbuzz.com
 xmninetown.com
 xmovies.com
 xmovies8.ru
+xmovies8.si
 xmr.101010.pl
 xmr.coinlab.biz
 xmr.crypto-pool.fr
@@ -63652,7 +63650,6 @@ zabxb.com
 zacebook.com
 zachgibbens.org
 zadn.vn
-zadrb.zadrottv.ru
 zadrottv.ru
 zafrc.5780.site
 zahir2.aeiou.pt

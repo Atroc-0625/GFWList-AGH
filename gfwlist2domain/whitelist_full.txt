@@ -2136,7 +2136,6 @@
 3001.net
 300113.com
 300400.net
-300avs.com
 300hu-vod-sched.jcloudimg.com
 300hu.com
 300ppt.com
@@ -6577,7 +6576,6 @@ adserve2.tom.com
 adservice.google.ca
 adservice.google.co.jp
 adservice.google.com
-adservice.google.com.au
 adservice.google.com.hk
 adservice.google.cz
 adservice.google.nl
@@ -11399,7 +11397,6 @@ c.fwone.com
 c.gdt.qq.com
 c.jinliaoyang.com
 c.jjkk.org
-c.jsbgh.cn
 c.kuaiduizuoye.com
 c.kuwo.cn
 c.l.qq.com
@@ -12188,6 +12185,7 @@ cdmm.net
 cdmoz.org
 cdn-1cphnwin.sched.s2.tdnsv5.com
 cdn-7n-pt.zbwowo.com
+cdn-adn.rayjump.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 cdn-bvkw7ely.sched.s2.tdnsv5.com
 cdn-cn1.apple-mapkit.com
@@ -16578,6 +16576,7 @@ daiyanbao.com
 daiyanmama.com
 daiyoubang.com
 daiyuxia.com
+daizhuzai.com
 dajiabao.com
 dajiadaohang.com
 dajialawyer.com
@@ -31447,7 +31446,6 @@ k8smeetup.com
 k8stech.net
 k8w.wang
 k99.wang
-k9dzax.cn
 ka114.net
 ka20.com
 kaadas.com
@@ -34534,7 +34532,6 @@ lubotv.com
 luchinfo2.com
 luck4ever.net
 luckeeinc.com
-luckfriend.com
 luckincoffee.com
 lucklnk.com
 luckyjia.com
@@ -34714,7 +34711,6 @@ lvyuanpam.com
 lvyuetravel.com
 lvzheng.com
 lw0591.com
-lw208.com
 lw23.com
 lw54.com
 lw85.com
@@ -36076,7 +36072,6 @@ mg-pen.com
 mg.32r.com
 mg.games.sina.com.cn
 mg.glwxw.net
-mg.k9dzax.cn
 mg.zpwansf.cn
 mg09.zhaopin.com
 mg21.com
@@ -37925,7 +37920,6 @@ netac.com
 netat.net
 netbarcn.net
 netbian.com
-netbian.net
 netcan666.com
 netcnnet.net
 netcoc.com

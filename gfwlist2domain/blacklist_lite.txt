@@ -5312,7 +5312,6 @@ bing.cn
 bingads.com
 bingagencyawards.com
 bingapistatistics.com
-bingdiantao.com
 bingfeng.tw
 bingparachute.com
 bingsandbox.com
@@ -12567,7 +12566,6 @@ fixtracking.com
 fizzik.com
 fj95560.com
 fjhongou.com
-fjtzjy.com
 fk-book.com
 fkapi.net
 fkz.re
@@ -19753,7 +19751,6 @@ lvv2.com
 lw84.com
 lwmn.net
 lww.com
-lwxtd.com
 lxty8.com
 ly.rs
 ly0121.com
@@ -27381,6 +27378,7 @@ securenetconnection.com
 securepaypal.info
 secureproxysite.com
 secureserver.net
+secureservercdn.net
 secureshoppingbasket.com
 securestudies.com
 securetunnel.com
@@ -34533,6 +34531,7 @@ xmlppcbuzz.com
 xmninetown.com
 xmovies.com
 xmovies8.ru
+xmovies8.si
 xmrpool.net
 xmrzw.cn
 xmsina.com
