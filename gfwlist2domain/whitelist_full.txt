@@ -2074,6 +2074,7 @@
 2df.me
 2dfire.com
 2dianying.net
+2dland.cn
 2du.net
 2dyou.com
 2f.com
@@ -8320,6 +8321,7 @@ appkefu.com
 appldnld.apple.com
 appldnld.g.aaplimg.com
 apple-dns.cn
+apple.com
 apple.www.letv.com
 apple110.com
 apple88.net
@@ -8861,7 +8863,6 @@ axmro.com
 axnsc.com
 axshuyuan.com
 axtoutiao.com
-axure.org
 axureshop.com
 axureux.com
 axureyun.com
@@ -18770,7 +18771,6 @@ dx.3.cn
 dx04131.com
 dxbei.com
 dxclinics.com
-dxcm.net
 dxda.com
 dxecs.com
 dxf6.com
@@ -37615,6 +37615,7 @@ mzjmedia.com
 mzone.site
 mzres.com
 mzsky.cc
+mzstatic.com
 mztgame.com
 mztzzx.com
 mzuan.com

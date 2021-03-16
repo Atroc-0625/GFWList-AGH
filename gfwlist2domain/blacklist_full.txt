@@ -7094,7 +7094,6 @@ apple.co.mz
 apple.co.nz
 apple.co.th
 apple.co.uk
-apple.com
 apple.com.af
 apple.com.akadns.net
 apple.com.au
@@ -8836,7 +8835,6 @@ bbb.po888.net
 bbb111.com
 bbb112.net
 bbb36.net
-bbb858.com
 bbb916.net
 bbba8.com
 bbbccf.com
@@ -34789,7 +34787,6 @@ mmdnn.com
 mmfgroupinc.com
 mmi.bemobile.ua
 mmkao.net
-mmm-office.co
 mmm-office.com
 mmm.theweek.co.uk
 mmm36.net
@@ -35974,7 +35971,6 @@ mz-web.de
 mzc23.com
 mzed.com
 mzkjzhang.freeiz.com
-mzstatic.com
 mzstatic.com.edgekey.net
 mzw000.com
 n-blade.ru
