@@ -32,10 +32,10 @@ function GetData() {
         "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
     )
     gfwlist2agh_custom_cnacc=(
-        "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/source/data/data_cnacc.txt"
+        "https://raw.githubusercontent.com/Atroc-0625/GFWList-AGH/source/data/data_cnacc.txt"
     )
     gfwlist2agh_custom_gfwlist=(
-        "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/source/data/data_gfwlist.txt"
+        "https://raw.githubusercontent.com/Atroc-0625/GFWList-AGH/source/data/data_gfwlist.txt"
     )
     rm -rf ./gfwlist2* ./Temp && mkdir ./Temp && cd ./Temp
     for cnacc_domain_task in "${!cnacc_domain[@]}"; do
