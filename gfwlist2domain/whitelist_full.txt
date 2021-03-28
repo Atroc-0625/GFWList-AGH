@@ -1768,6 +1768,7 @@
 2.asia.pool.ntp.org
 2.bashenghuo.com
 2.haoxue360.com
+2.letvlive.com
 2.nanrenwo.net
 2.tuxi.com.cn
 2.up.qingdaonews.com
@@ -7663,7 +7664,6 @@ aliyundrive.com
 aliyundunwaf.com
 aliyunedu.net
 aliyunfuwuqi.com
-aliyunga0018.com
 aliyunhn.com
 aliyunmeng.com
 aliyunqifu.com
@@ -22399,7 +22399,6 @@ fulimin.org
 fuling.com
 fulingwx.com
 fuliti.com
-fuliw.net
 full-way.com
 fullgoal.com.cn
 fullstack.love
@@ -31819,7 +31818,6 @@ js.mbaidu.top
 js.miaozhen.com
 js.mosflower.cn
 js.mscto.com
-js.mumayi.net
 js.penxiangge.com
 js.player.cntv.cn
 js.ptengine.cn
@@ -34346,6 +34344,7 @@ letv.m.cn.miaozhen.com
 letv8.com
 letvcloud.com
 letvimg.com
+letvlive.com
 letvps.com
 letvstore.com
 letwind.com
@@ -35091,7 +35090,6 @@ lizhifm.com
 lizhijitang.com
 lizhiqiang.name
 lizhiweike.com
-lizi.com
 liziqiche.com
 lj-bank.com
 lj168.com
@@ -37943,7 +37941,6 @@ mo.kugou.com
 mo.res.wpscdn.cn
 mo.rjfkrzwk.cn
 mo.test.haloapps.com
-mo.zvygzatj.cn
 mo298.com
 mo2g.com
 moad.cn
@@ -42643,6 +42640,7 @@ public-v6.sparta.mig.tencent-cloud.net
 public.app.autohome.com.cn
 public.creditchina.gov.cn
 public.ffquan.cn
+public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.wlbaike.com
 publicassets.cdn-apple.com
@@ -45900,7 +45898,6 @@ sc.anhuiry.com
 sc.cc
 sc.csai.cn
 sc.gg
-sc.ggfeng.com
 sc0.hao123img.com
 sc1588.com
 sc2.nosdn.127.net
