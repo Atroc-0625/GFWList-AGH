@@ -34,4 +34,5 @@ doh.opendns.com
 !apple.com
 !mzstatic.com
 !www.apple.com.cn
+!securemetrics.apple.com.cn
 ## GFWList 列表 - 结束
