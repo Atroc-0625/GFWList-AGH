@@ -549,7 +549,6 @@
 168wangluo.com
 1690.com
 1690a.com
-169wz.com
 16ao.mathon.fr
 16bvi.com
 16fhgdty.xyz
@@ -1032,6 +1031,8 @@
 25.effers.com
 25.slyip.net
 25.us.freewww.biz
+251ai.com
+252ai.com
 254a.com
 255.etowns.org
 25565.com
@@ -1039,6 +1040,7 @@
 256.now-ip.net
 256566.com
 257.now-ip.net
+257ai.com
 2580268.com
 2599tv.com
 259rr.com
@@ -2986,12 +2988,10 @@ a02342.penarthtimes.co.uk
 a02342.redditchadvertiser.co.uk
 a02342.redhillandreigatelife.co.uk
 a02342.richmondandtwickenhamtimes.co.uk
-a02342.romseyadvertiser.co.uk
 a02342.salisburyjournal.co.uk
 a02342.southendstandard.co.uk
 a02342.southwalesargus.co.uk
 a02342.stalbansreview.co.uk
-a02342.stourbridgenews.co.uk
 a02342.theboltonnews.co.uk
 a02342.thenorthernecho.co.uk
 a02342.thescottishfarmer.co.uk
@@ -6012,7 +6012,6 @@ alivevm.com
 alivevmax.com
 alivevue.com
 aliyahdewi.com
-aliyune.xyz
 aliyuni.xyz
 aljazeera.com
 aljazeera.net
@@ -6879,7 +6878,6 @@ aneisa.com
 anekdot.ru
 anetwork.ir
 aneuron.com
-anfadianqi.com
 anfone.net
 anfutong.com
 angara.com
@@ -7198,7 +7196,6 @@ api.intercom.io
 api.jetlore.com
 api.kiip.me
 api.linkgist.com
-api.lm1188.com
 api.mapbox.com
 api.mediarithmics.com
 api.mediation.amberweather.com
@@ -10454,7 +10451,6 @@ bjh3.com
 bjhjw.com.cn
 bjhqs.com
 bjl2033.com
-bjl2799.com
 bjl5.com
 bjl7999.com
 bjl8988.com
@@ -13211,6 +13207,7 @@ cdn-msp.msp-comic1.xyz
 cdn-ng.net
 cdn-partners-references.lesoir.be
 cdn-qc.coccoc.com
+cdn-ra.rockcontent.com
 cdn-rtb.sape.ru
 cdn-settings.segment.com
 cdn-social.janrain.com
@@ -13229,7 +13226,6 @@ cdn.adclerks.com
 cdn.adguard.com
 cdn.adikteev.com
 cdn.adk2.com
-cdn.adless.io
 cdn.adnxs.com
 cdn.ads.fotoable.net
 cdn.ads.jlscds.com
@@ -14516,6 +14512,7 @@ cloudburstresearch.com
 cloudc.one
 cloudcdn.yousee.com
 cloudchoose.com
+cloudcioevent.com
 cloudcone.com
 cloudconfig.googleapis.com
 cloudconvert.com
@@ -14794,6 +14791,7 @@ cnpronvpn.com
 cnsayo.com
 cnseor.com
 cnshef.com
+cnsifa.net
 cnstats.cdev.eu
 cnszkl.com
 cnt.3dmy.net
@@ -16370,7 +16368,6 @@ cytivalifesciences.com
 cytode.us
 cyworld.com
 cyzhao.xyz
-cz.ifeng0.com
 cz01016102.ms758.com
 cz100.net
 czdxto.radiopopular.pt
@@ -20110,6 +20107,7 @@ eduinhk-my.sharepoint.com
 eduplus.hk
 edupro.org
 eduvpn.com
+eduy-china.com
 edvaor.estro.ua
 edvisors.com
 edw.edmunds.com
@@ -21153,6 +21151,7 @@ events.split.io
 events.streamrail.net
 events.tubecup.org
 events.turbosquid.com
+events.uber.com
 events.whisk.com
 events.yourcx.io
 events3.adcolony.com
@@ -21709,7 +21708,6 @@ facwebook.com
 facxebook.com
 fadama.com
 fadebook.com
-fadedream.com
 fado.vn
 faebok.com
 faebook.com
@@ -21913,6 +21911,7 @@ fastpriv.com
 fastssh.com
 faststone.org
 fasttext.cc
+fasttracker.foreverpirates.co
 fasttrackreadysupport.com
 fastusaproxy.com
 fastzone.org
@@ -22201,7 +22200,6 @@ ffrmwn.musinsa.com
 ffvpn.com
 ffx.io
 ffxcam.fairfax.com.au
-ffychb.com
 fg.softguy.com
 fgacebook.com
 fgbgtt.cian.ru
@@ -23775,7 +23773,6 @@ fzh.me
 fzh999.com
 fznkjk.bonprix.sk
 fzxjxkb.com
-fzxrjx.com
 fzz.shgqjr.com
 g-area.org
 g-content.bid
@@ -24280,7 +24277,6 @@ geo.moatads.com
 geo.mtvnn.com
 geo.prod.do.dsp.mp.microsoft.com
 geo.q5media.net
-geo.thehindu.com
 geo.tv
 geo.vortex.data.microsoft.com.akadns.net
 geo.xcel.io
@@ -24564,7 +24560,6 @@ ggsnoq.cavalierebici.it
 ggss.cf
 ggssl.com
 ggstreaming.azurewebsites.net
-ggweb.net
 ggweb.nl
 gh0029.com
 gh0091.com
@@ -25882,7 +25877,6 @@ hackyourconsole.com
 hagerty.com
 hahaxixi.github.io
 hahlo.com
-hai61.com
 haima888.com
 haiwaitoutiao.com
 haizirv.cn
@@ -26212,7 +26206,6 @@ helloidol.com
 hellokittybeats.com
 hellomagazine.com
 helloprojectclothes.blogspot.jp
-helloqueer.com
 hellosmartbook.com
 hellotxt.com
 hellouk.org
@@ -27076,7 +27069,6 @@ hpdriver.com
 hpdrivers.com
 hpdrivers.org
 hpe.com
-hpeclipse.com
 hpengage.com
 hpeprint.com
 hpeprintcenter.com
@@ -27189,6 +27181,7 @@ hsadspixel.net
 hsasqc.randewoo.ru
 hsbccreditcard.com
 hsbpartners.com
+hsbsimu.com
 hsck.cc
 hsck8.com
 hscollectedforms.net
@@ -27904,8 +27897,8 @@ ifcayouth.org
 ifconfig.co
 ifconfig.me
 ifei.com.tw
-ifeng0.com
 ifex.org
+ifhzh.com
 ifixit.com
 ifj.org
 ifjc.org
@@ -29603,7 +29596,6 @@ iup.360safe.com
 iuqcmmqjzwdi.dn4onjr.cn
 ius.io
 iutunes.com
-iv.aliyune.xyz
 ivacy.com
 ivacycn.com
 ivanti.com
@@ -32272,6 +32264,7 @@ linux.org.hk
 linux.se
 linux00.com
 linuxcache.com
+linuxdiyf.com
 linuxfoundation.org
 linuxfromscratch.org
 linuxjournal.com
@@ -32413,7 +32406,6 @@ ll699.net
 llamador.cl
 llbn.tv
 lll836.net
-llmh04.com
 llnw-trials.com
 llnw.com
 llnw.net
@@ -32428,7 +32420,6 @@ llss.me
 llu.com
 llxhw.com
 lm.1731788.com
-lm1188.com
 lmb.betway118.com
 lmgtfy.com
 lmobi.net
@@ -33101,7 +33092,6 @@ m.ailix.cn
 m.aiyyu.com
 m.anmeilai.net
 m.apxyz.com
-m.ayues.com
 m.baidu.com.yiqisee.cn
 m.baidu.com.zhiduo.org
 m.bailingjiankang.com
@@ -33355,7 +33345,6 @@ m.yuyouge.com
 m.yyfymj.com
 m.yzc212.com
 m.z0mh0u.cn
-m.zabxb.com
 m.zaoss.com
 m.zdjgj.cn
 m.zenwq.com
@@ -37462,7 +37451,6 @@ nbg.seagate.com
 nbimg.dt00.net
 nbkbgd.cn
 nbn.org.il
-nbtvpn.com
 nbty-china.com
 nbxzp.com
 nbyongle.com
@@ -44501,6 +44489,7 @@ rock101.com
 rock2.authcaptcha.com
 rock2.directprimal.com
 rock5rice.com
+rockcontent.com
 rocket-inc.net
 rocketaccount.com
 rocketbbs.com
@@ -47196,6 +47185,7 @@ sino.tw
 sinoants.com
 sinocast.com
 sinocism.com
+sinograin.com
 sinoinsider.com
 sinomontreal.ca
 sinopsis.cz
@@ -58765,6 +58755,7 @@ whitepages.com
 whitmail.whitman.edu
 whitman.edu
 whjtcx.com
+whmlhhs.com
 whmtyy.com
 who.int
 whoer.net
