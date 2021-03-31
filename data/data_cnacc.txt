@@ -49,4 +49,6 @@ uc.cn
 @2dland.cn
 # 苹果cdn 中国土木
 #@akadns.net
+!redirector.googlevideo.com
+!googlevideo.com
 ## CNACC 列表 - 结束
