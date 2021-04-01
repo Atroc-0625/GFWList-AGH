@@ -415,7 +415,6 @@
 13-courier.push.apple.com
 13-courier2.push.apple.com
 13.courier-push-apple.com.akadns.net
-1300k.com
 1300kai.com
 1303483.live173.com
 1314.4irc.com
@@ -3471,7 +3470,6 @@ acdsystems.com
 acebooik.com
 acebook.com
 acehardware.com
-acelisconnectedhealth.com
 acemetrics.aaa.com
 acemetrix.com
 acer-group.com
@@ -3526,8 +3524,6 @@ acmvalidations.com
 acmvalidationsaws.com
 acnw.com.au
 acom.azurecomcdn.net
-aconclue-business.fr
-aconclue-pro.com
 acotedemoi.com
 acount.alley.ws
 acpc.cat
@@ -3599,7 +3595,6 @@ actonsoftware.com
 acts29network.org
 actsretirement.org
 actu-juridique.fr
-actupremium.com
 aculo.us
 acwebconnecting.com
 acx.io
@@ -7650,6 +7645,7 @@ apple.co.mz
 apple.co.nz
 apple.co.th
 apple.co.uk
+apple.com
 apple.com.af
 apple.com.akadns.net
 apple.com.au
@@ -7928,7 +7924,6 @@ appwall.api.airpush.com
 appwall.tv2phone.cn
 appwifi.com
 appye.com
-appyxxy.com
 aprentec.cl
 apress.com
 april5action.blogspot.hk
@@ -10381,7 +10376,6 @@ bg567.com
 bga11.shlibaosi.cn
 bgc999.com
 bgcse.cn
-bgi.com
 bgm.tv
 bgov.com
 bgpdefault-hkg.msedge.net
@@ -10706,7 +10700,6 @@ biz1.kddi.com
 biz4.sandai.net
 biz5.sandai.net
 bizcom.com.ru
-bizcompass.jp
 bizfly.vn
 bizfo.co.uk
 bizhat.com
@@ -11603,7 +11596,6 @@ bnisolusi.com
 bnn.co
 bnnbloomberg.ca
 bnnrrv.qontentum.de
-bnp-news.de
 bnpparibasfortis.be
 bnppre.fr
 bnr.agf.nl
@@ -13033,7 +13025,6 @@ cambridge.org
 cambridgedigital.net
 cambridgemaths.org
 cambridgeschoolshakespeare.com
-camchealth.org
 camdough.com
 camdvr.org
 camelot-europe.com
@@ -14337,7 +14328,6 @@ china-gc.com
 china-mmm.jp.net
 china-mmm.net
 china-mmm.sa.com
-china-netwave.com
 china-proxy.org
 china-review.com.ua
 china-underground.com
@@ -17951,7 +17941,6 @@ dd699.net
 dd6zx4ibq538k.cloudfront.net
 dd935.net
 dd9871.com
-ddanzi.com
 ddc.com.tw
 ddd112.net
 ddd167.net
@@ -18346,7 +18335,6 @@ deviloid.net
 devilsfilm.com
 devimages-cdn.apple.com
 devio.us
-devis-companeo.fr
 devisprox-media.s3-website-eu-west-1.amazonaws.com
 devk.de
 devm2m.com
@@ -20743,7 +20731,6 @@ edtpa.com
 edu-info.jp
 edu-research.org
 edu.blisswisdom.org
-edu.sg
 edu.tw
 edu.uifr.ru
 edu.vn
@@ -20813,7 +20800,6 @@ efigence.com
 efind.ru
 efirstbank.com
 efksoft.com
-eflyersonthego.com
 efmoe.club
 efmoe.com
 efo.cc
@@ -21080,7 +21066,6 @@ eluoyi.xbiquge6.com
 elvenar.com
 elvia.ch
 elvocero.com
-em-ametek.com
 emac.co.in
 emac.in
 emaga.com
@@ -21098,7 +21083,6 @@ email.positionly.com
 email.umich.edu
 emailing.casden.banquepopulaire.fr
 emailing.rfi.fr
-emailium.fr
 emaillove.com
 emailrep.io
 emailroi.com
@@ -21532,7 +21516,6 @@ eprc.com.hk
 eprice.com.hk
 eprice.it
 eproof.drudgereport.com
-epsbooks.com
 epsilonthree.com
 epson.com
 eqads.com
@@ -23089,7 +23072,6 @@ fhl.gr
 fhreports.net
 fhxiaoshuo.com
 fhy123.org
-fhyiq.com
 fhyuan.net
 fi.doh.dns.snopyta.org
 fi22.cc
@@ -23867,7 +23849,6 @@ foxfiles.com
 foxgay.com
 foxinc.com
 foxitsoftware.com
-foxitsoftware1.com
 foxkansas.com
 foxla.com
 foxlexington.com
@@ -24617,7 +24598,6 @@ furinkan.com
 furl.net
 furla.com
 furnishings.bellacor.com
-furniture-china.cn
 fursk.ru
 fury.blog
 fury.co
@@ -24675,7 +24655,6 @@ fxcmapac.com
 fxcmcn.com
 fxdd.com
 fxempire.com
-fxhqw.net
 fxipreferral.americanexpress.com
 fxjs.2541.com
 fxmdjr.mamastar.jp
@@ -24768,7 +24747,6 @@ g1.idg.pl
 g2.4pu.com
 g2.twimg.com
 g2a-com.newsletter.com.pl
-g2b2b.com
 g2crowd.com
 g2insights-cdn.azureedge.net
 g33285.com
@@ -26643,7 +26621,6 @@ gspe79-ssl.ls.apple.com
 gspot-discuss.com
 gsrc.io
 gsretail.com
-gsshop.com
 gstarcad-italia.it
 gstatic.com
 gstf.org
@@ -30327,7 +30304,6 @@ invidio.us
 invidious.fdn.fr
 invidious.snopyta.org
 invisiblesurfing.com
-invitation-mesdessous.fr
 invite.baomoi.com
 invite.leanlab.co
 invite.linescale.com
@@ -30874,7 +30850,6 @@ iuksky.com
 iulianpopescu.eu
 iunrts.booking.com
 iup.360safe.com
-iuqcmmqjzwdi.dn4onjr.cn
 ius.io
 iutunes.com
 iuwiqj.norwall.com
@@ -31758,6 +31733,7 @@ jsdaodu16.jigsy.com
 jsdd15.jigsy.com
 jsdd17.jigsy.com
 jsdelivr.com
+jsdelivr.net
 jsearch.site
 jsecoin.com
 jsfiddle.net
@@ -32122,7 +32098,6 @@ kaufland.sk
 kaufmich.com
 kavehome.com
 kawarthacu.com
-kawasaki-motors.com
 kawase.com
 kay.com
 kayoutlet.com
@@ -33222,7 +33197,6 @@ leggmason.com
 leggycash.com
 leglegs.com
 lego.com
-legoukameng.com
 legsjapan.com
 lehaofa.com
 lehighvalleylive.com
@@ -35180,7 +35154,6 @@ man.skxtv.com
 man2119.com
 man2268.com
 man2585.com
-man2619.com
 man2636.com
 man2689.com
 man633.com
@@ -35229,7 +35202,6 @@ mangler1.generals.ea.com
 mangler2.generals.ea.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
-mango-mobilites.fr
 mango-office.ru
 mango.com
 mango.seloger.com
@@ -35739,7 +35711,6 @@ marsflag.com
 marshal.com
 marshalls.com
 marshfieldnewsherald.com
-marshmsp.com
 marshpcs.com
 martau.com
 martelaoutlet.fi
@@ -42671,7 +42642,6 @@ pathtosharepoint.com
 patientengagementhit.com
 patio-furniture.dreamhoster.com
 patirti.com
-patout.dev
 patreon.com
 patrickemaher.com
 patriot.win
@@ -44169,7 +44139,6 @@ poobaj.bhg.com
 pool-de.supportxmr.com
 pool.aeon.hashvault.pro
 pool.bmnr.pw
-pool.coinlab.biz
 pool.cryptopay.org.za
 pool.graft.hashvault.pro
 pool.minexmr.com
@@ -46322,6 +46291,7 @@ redigy.cz
 redirectme.net
 redirector-allseason.net.daraz.com
 redirector-keele-nnw-leis-mc-leis.net.daraz.com
+redirector.googlevideo.com
 redis.io
 redislabs.com
 redkix.com
@@ -47737,7 +47707,6 @@ saibo.io
 saifeng3.com
 saigao.me
 saigaocy.com
-saihok.jp
 sailpoint.com
 saintfish.com
 saintmail.st-andrews.ac.uk
@@ -55612,7 +55581,6 @@ tgahelp.zendesk.com
 tgb.csbew.com
 tgb.flnet.org
 tggame.dyndns.org
-tghgo.org
 tgmklw.productreview.com.au
 tgpcanada.org
 tgpcounter.freethumbnailgalleries.com
@@ -56033,7 +56001,6 @@ thomsonreuters.es
 thomsonreuters.in
 thomsonreuters.info
 thomsonreuters.ru
-thomsonreuterscanada.ca
 thomsonreutersmexico.com
 thongdreams.com
 thongke.24h.com.vn
@@ -56643,7 +56610,6 @@ tomzw.com
 ton.twimg.com
 tonalsoft.com
 tonbobio.com
-toner-service.fr
 toner.fr
 tonews.org
 tongbao918.com

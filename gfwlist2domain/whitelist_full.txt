@@ -3183,7 +3183,6 @@
 2di.cc
 2dianying.net
 2djgame.net
-2dland.cn
 2droom.com
 2du.net
 2dyou.com
@@ -14562,6 +14561,7 @@ bgcyygl.com
 bgdeco.com
 bgee.cc
 bggd.com
+bgi.com
 bgjqr.com
 bgk100.com
 bgl88.com
@@ -30500,6 +30500,7 @@ fupiaopifa.com
 fuqian.la
 fuqiangw.com
 furamc.com.cn
+furniture-china.cn
 furongcaifu.com
 furongedu.com
 furrychina.com
@@ -51851,7 +51852,6 @@ mrzhouxiaofei.com
 mrzl.com
 mrzs.net
 ms-ceintl.gallerycdn.azure.cn
-ms.awqsaged.cn
 ms.bdimg.com
 ms.cnbanbao.com
 ms.cnczjy.com
