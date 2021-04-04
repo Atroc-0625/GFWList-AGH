@@ -10029,7 +10029,6 @@ adv.grtn.cn
 adv.jxnews.com.cn
 adv.madserving.com
 adv.sec.miui.com
-adv.shangdu.com
 adv.zuimeitianqi.com
 adv5678.com
 advapi.ahtv.cn
@@ -10335,6 +10334,7 @@ ai.bioon.com
 ai.cc
 ai.m.taobao.com
 ai.taobao.com
+ai.xinju.cc
 ai.youdao.com
 ai012.com
 ai200808.com
@@ -52568,7 +52568,6 @@ n-bros.net
 n-mobile.com
 n-st.vip.com
 n.3g.163.com
-n.chaoliangyun.cn
 n.hzhfhkj.cn
 n.mark.letv.com
 n.sinaimg.cn

@@ -1798,7 +1798,6 @@
 51juejinjie.com.cn
 51kdy.com
 51luoben.com
-51maiwanju.com
 51meifu.com
 51network.com
 51posuiji.org.cn
@@ -11007,7 +11006,6 @@ bjgtzl.com
 bjh10.com
 bjh3.com
 bjhjw.com.cn
-bjhqs.com
 bjl2033.com
 bjl2077.com
 bjl5.com
@@ -31982,6 +31980,7 @@ jinx.com
 jinzhao.wiki
 jio.com
 jiongshiwu.com
+jipinapi.panqis.cn
 jira.vpon.com
 jiruan.net
 jitouch.com
@@ -33305,7 +33304,6 @@ kurtmunger.com
 kushbottles.com
 kushsupplyco.com
 kusocity.com
-kuwoyy.com
 kux5.raileurope.com
 kuxiaoshuo.com
 kuyunzy.co
