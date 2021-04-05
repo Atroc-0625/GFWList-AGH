@@ -883,7 +883,6 @@
 1.bashenghuo.com
 1.cjcp.cn
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -6848,7 +6847,6 @@
 7.iscrv.com
 7.pic.paopaoche.net
 700bike.com
-700mh.com
 700so.com
 700static.com
 700store.com
@@ -8079,7 +8077,6 @@
 9133.com
 9136.com
 91378.com
-913u.com
 913vr.com
 913you.com
 91472.com
@@ -9003,7 +9000,6 @@ a-hospital.com
 a-jazz.com
 a-liai.com
 a-llq.whbmy.com
-a-m-s.adnonstop.com
 a-m-s.poco.cn
 a-padn-access.pingan.com.cn
 a-sta-cn.upltv.com
@@ -9925,6 +9921,7 @@ ads.wapx.cn
 ads.wasu.tv
 ads.weilitoutiao.net
 ads.wepiao.com
+ads.yourfreedvds.com
 ads.yxdown.com
 ads1.lfengmobile.com
 ads8.com
@@ -9952,7 +9949,6 @@ adsense.html5.qq.com
 adsensor.org
 adserve2.tom.com
 adservice.google.com
-adservice.google.cz
 adservice.sigmob.cn
 adserviceretry.kugou.com
 adsfile.bssdlbig.kugou.com
@@ -10354,7 +10350,6 @@ aibaimm.com
 aibaix.com
 aibang.com
 aibang5.com
-aibangxiang.com
 aibaov.com
 aibeidian.com
 aibing.cc
@@ -12998,7 +12993,6 @@ awx1.com
 awzp.net
 ax-log.duizhuang.com
 ax.120ask.com
-ax.ggfeng.com
 ax.ifeng.com
 ax1x.com
 ax2nc4.ren
@@ -14138,7 +14132,6 @@ bding.net
 bditong.com
 bdj.tianya.cn
 bdjiaoben.wmxa.cn
-bdjj.bzr99.com
 bdjs.120askimages.com
 bdjs.163lady.com
 bdjs.6822.com
@@ -15266,7 +15259,6 @@ bjkhzx.com
 bjkix-pay.kuaishoupay.com
 bjkqj.com
 bjkrtwl.com
-bjl2022.com
 bjl2088.com
 bjl6777.com
 bjl7555.com
@@ -22877,7 +22869,6 @@ cws.alicdn.com
 cws.alicdn.com.danuoyi.tbcache.com
 cwx.lianwangtech.com
 cwx.qlogo.cn
-cwxzx.com
 cwyan.com
 cwziyouren.com
 cx.v5cam.com
@@ -25594,7 +25585,6 @@ domengle.com
 domhttp.kksmg.com
 domikoo.com
 domob.cn
-domob.com.cn
 domobcdn.com
 domobnetwork.com
 domolo.com
@@ -27405,7 +27395,6 @@ ee-forum.org
 ee-skin.com
 ee-vip.net
 ee.hx623.cn
-ee.oikqfwv.cn
 ee.u0r9.cn
 ee.xfya3.cn
 ee.yg10x.cn
@@ -30750,7 +30739,6 @@ g.168.it168.com
 g.6sfg.com
 g.ad8.cc
 g.ads.cn.miaozhen.com
-g.aisouk.cn
 g.alicdn.com
 g.alicdn.com.danuoyi.alicdn.com
 g.aligames.com
@@ -37696,7 +37684,6 @@ hz-xin.com
 hz.hzhongjianfund.com
 hz.miercn.com
 hz.mmstat.com
-hz.shouyoutv.com
 hz.turn.chillyroom.com
 hz100msh.com
 hz155.com
@@ -47665,7 +47652,6 @@ load-page.com
 loading.baofeng5.baofeng.net
 loan.xystatic.com
 loc.map.baidu.com
-local.hniux.cn
 locallimit.us.sinaimg.cn
 location.ximalaya.com
 locatran.com
@@ -48857,7 +48843,6 @@ m.gmw.cn
 m.gmw.cn.wscdns.com
 m.gxkyl.com
 m.gxwztv.com
-m.h0x.cn
 m.hao123.com
 m.haotoon.cn
 m.heibaimanhua.com
@@ -50605,7 +50590,6 @@ mibokids.com
 mibook-10006092.cos.myqcloud.com
 mibugs.com
 mic-s.com
-mic.xiangyuym.cn
 micai.com
 micaitu.net
 micaiying.com
@@ -55450,6 +55434,7 @@ p9.pstatp.com
 p9.toutiaoimg.com
 p91sfbfpqa0wd2.mwcname.com
 p98.pstatp.com
+p98ytk.cn
 p99998888.com
 pa.ugdtimg.com
 pa18.com
