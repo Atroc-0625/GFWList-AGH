@@ -5,6 +5,7 @@
 0.up.qingdaonews.com
 00042.com
 0006266.com
+0006999.com
 0007.net
 0008887.com
 000dn.com
@@ -876,7 +877,6 @@
 1.bashenghuo.com
 1.cjcp.cn
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -2268,6 +2268,7 @@
 18lipin.com
 18o8.com
 18ph.com
+18pps.com
 18qiang.com
 18shuwu.com
 18touch.com
@@ -8718,7 +8719,6 @@
 998dns.com
 998jk.com
 998jx.com
-999.cai87.com
 9991.com
 999120.net
 999178.com
@@ -9246,7 +9246,6 @@ abbooa.com
 abbyschoice.net
 abbyychina.com
 abc-ca.com
-abc.dooccn.com
 abc.douguo.com
 abc.if.qidian.com
 abc.jia.com
@@ -11065,7 +11064,6 @@ aliyunlive.com
 aliyunmeng.com
 aliyunqifu.com
 aliyunseccdnct.inter.iqiyi.com
-aliyunseccdnct.inter.ptqy.gitv.tv
 aliyunwaf.com
 aliyunwaf1.com
 aliyunwaf2.com
@@ -12187,7 +12185,6 @@ appcup.com
 appdaka.com
 appdao.com
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -14586,7 +14583,6 @@ bi-sensors.duxiaoman.com
 bi-track.hypergryph.com
 bi.manhuaren.com
 bi.ptqy.gitv.tv
-bi.yeshen.com
 bi11.com
 biacgn.com
 bian-min.com
@@ -15239,7 +15235,7 @@ bjkhzx.com
 bjkix-pay.kuaishoupay.com
 bjkqj.com
 bjkrtwl.com
-bjl4777.com
+bjl4999.com
 bjl6777.com
 bjl777.com
 bjl8789.com
@@ -20112,6 +20108,7 @@ ckg.vipyl.com
 ckgcjl.com
 ckimg.com
 ckjr001.com
+ckjyck.qxs.la
 ckkpp.com
 ckm.iqiyi.com
 ckmap.mediav.com
@@ -21330,7 +21327,6 @@ cnweilo.com
 cnwen.net
 cnwenshi.net
 cnwest.com
-cnwest88.com
 cnwhc.com
 cnwhotel.com
 cnwindows.com
@@ -25513,7 +25509,6 @@ dodovip.com
 doergob.com
 doershow.com
 dofanyi.com
-dofkfhv.cn
 dofund.com
 dog126.com
 dogecdn.com
@@ -28004,7 +27999,6 @@ erdianzhang.com
 erdong.site
 erdosrcb.com
 ere3j2e001.com
-erebor.douban.com
 erentalcarpro.com
 ereuiib.com
 erfdhiu.com
@@ -30652,6 +30646,7 @@ fytz.net
 fyuanpack.com
 fyvart.com
 fywx.cc
+fyxz.com
 fyzku.com
 fz.letv.com
 fz0512.com
@@ -34792,7 +34787,6 @@ hdbaichuan.com
 hdc-api.eqxiu.com
 hdc1new.taobao.com
 hdchd.cc
-hdchd.com
 hddhhn.com
 hddznet.com
 hdfimg.com
@@ -36131,7 +36125,6 @@ hongsungifts.com
 hongt.com
 hongtastock.com
 hongtongad.com
-hongtu.me
 hongtuwang.com
 hongweipeng.com
 hongxiaolong.com
@@ -36615,7 +36608,6 @@ httpdns.alicdn.com
 httpdns.browser.miui.com
 httpdns.danuoyi.tbcache.com
 httpdns.meituan.com
-httpdns.push.heytapmobi.com
 httprunner.org
 httpsbaidu.com
 httpsdns.baidu.com
@@ -36868,7 +36860,6 @@ huatuo.weiyun.com
 huatuo007.com
 huatuocode.huatuo.qq.com
 huatuocode.weiyun.com
-huatuospeed.weiyun.com
 huatuowenda.com
 huatuoyf.com
 huaue.com
@@ -37854,7 +37845,6 @@ i.w.inmobi.cn
 i.w.inmobi.com
 i.waimai.meituan.com
 i.wuhaolin.cn
-i.xdywlw.cn
 i.xunlei.com
 i.y.qq.com
 i.youdao.com
@@ -39729,6 +39719,7 @@ inoneh5.com
 inoteexpress.com
 inovance-automotive.com
 inpandora.com
+inping.com
 inpla.net
 inplayable.com
 inpower.cc
@@ -39988,7 +39979,6 @@ iph123.com
 iphone-ld.apple.com
 iphone-ld.apple.com.mwcname.com
 iphonediule.com
-iphonevip.cn
 iphp8.com
 ipi.shuzilm.cn
 ipianchang.com
@@ -44183,7 +44173,6 @@ kdpt.net
 kdroid.club
 kdroid.org
 kdslife.com
-kdslife.net
 kdspjx.com
 kdt.im
 kdued.com
@@ -47736,6 +47725,7 @@ login.xunlei.com
 login2.dftoutiao.com
 loginlog.sdo.com
 logisticsy.com
+logman.dmall.com
 logo-emblem.com
 logo123.net
 logo234.com
@@ -48903,7 +48893,6 @@ m.xylmdm.top
 m.y195j.cn
 m.yalayi.com
 m.yanjunbo.com
-m.yapusheji.com
 m.yes.youku.com
 m.yg10x.cn
 m.yizhijin.cn
@@ -55838,6 +55827,7 @@ pch-img.net
 pch.qpic.cn
 pchome.com
 pchome.net
+pcidata.cn
 pciiss.com
 pcitc.com
 pclog.dftoutiao.com
@@ -60230,7 +60220,6 @@ remapcity.com
 remark.dance
 remax-bj.com
 remehealth.com
-remembermor.club
 rememtek.com
 remen88.com
 remind.api.weibo.com
@@ -61424,7 +61413,6 @@ saebbs.com
 saee.org.cn
 saf588.com
 safe-store-md.com
-safe.ucweb.com
 safe524.xyz
 safebrowsing-cache.google.com
 safebrowsing.googleapis.com
@@ -65313,6 +65301,7 @@ spgyxx.com
 sphinx.tongdun.net
 sphinxrating.com
 sphinxsearch.org
+spi.pcidata.cn
 spiiker.com
 spin-view.com
 spinfo.wps.cn
@@ -67262,6 +67251,7 @@ t.go.sohu.com
 t.growingio.com
 t.h5data.com
 t.hypers.com.cn
+t.inping.com
 t.iz55.com
 t.ksrong.com
 t.l.qq.com
