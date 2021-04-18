@@ -873,6 +873,7 @@
 1.bashenghuo.com
 1.cjcp.cn
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -2140,7 +2141,6 @@
 17wan.la
 17wan7.com
 17wanba.com
-17wanjia.com
 17wanxiao.com
 17wclass.com
 17weike.com
@@ -2547,7 +2547,6 @@
 2.asia.pool.ntp.org
 2.bashenghuo.com
 2.haoxue360.com
-2.letvlive.com
 2.nanrenwo.net
 2.tuxi.com.cn
 2.up.qingdaonews.com
@@ -6958,7 +6957,6 @@
 72zx.com
 730.nuomi.n.shifen.com
 730011.com
-730646.com
 731c.com
 731yz.com
 73232yx.com
@@ -7498,7 +7496,6 @@
 80txt.la
 80vps.com
 80xb.com
-80yc.com
 80ym.com
 80yunying.com
 80zhan.com
@@ -7735,7 +7732,6 @@
 87ma.com
 87money.com
 87pk.com
-87xue.com
 87yy.com
 88-z.com
 88.yunqishi.net
@@ -9491,7 +9487,6 @@ activity.tuiapple.com
 activity.tuifish.com
 activity.tuigorilla.com
 activity.tuipear.com
-activity.yuyiya.com
 actlog.dftoutiao.com
 actom.me
 actoys.com
@@ -10177,7 +10172,6 @@ agora.io
 agoraio.cn
 agotools.com
 agq6ue3.cachenode.cn
-agr.voiceads.cn
 agrantsem.com
 agri35.com
 agriturismi-sicilia.com
@@ -12046,7 +12040,6 @@ apmbooth.com
 apmconfig.douyucdn.cn
 apmconfig.douyucdn.cn.wsglb0.com
 apme-magnetics.com
-apmnqut.cn
 apmvista.com
 apnring.com
 apns.ios.ijinshan.com
@@ -14008,7 +14001,6 @@ bd1.365qilu.com
 bd1.99danji.com
 bd1.click.com.cn
 bd1.dopa.com
-bd1.flfgw.cn
 bd1.guancha.cn
 bd1.idgdmgroup.com.cn
 bd1.jobui.com
@@ -14776,7 +14768,6 @@ billchn.com
 billionconnect.com
 billionseo.com
 billowlink.com
-billts.site
 billwang.net
 biluzww.com
 bim-times.com
@@ -18336,6 +18327,7 @@ channel-analysis-js.gmw.cn
 channel-analysis.gmw.cn
 channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
+channel.m.163.com
 channel.vaptcha.net
 channel.vaptcha.net.w.cdngslb.com
 channeleffect.com
@@ -21081,7 +21073,6 @@ cnmanhua.com
 cnmattson.com
 cnmcom.com
 cnmdy.com
-cnmediae.com
 cnmeifa.com
 cnmeishu.com
 cnmeiwei.com
@@ -25253,7 +25244,6 @@ dmpclick.deliver.ifeng.com
 dmpdata.58.com
 dmplog.qq.com
 dmqapp.com
-dmr.cnhoney.com
 dmread.com
 dmrtb.com
 dms63.he3kz8.com
@@ -35265,7 +35255,6 @@ hg6666.info
 hg6668.cc
 hg67822.com
 hg707.com
-hg70777.com
 hg7799.net
 hg8880.org
 hga833.cc
@@ -39196,7 +39185,6 @@ img.youxi369.com
 img.ys137.com
 img.yzcdn.cn
 img.zhls.qq.com
-img.zsj18.com
 img.zuimh.com
 img.zuowen8.com
 img.zuowenwang.net
@@ -42873,6 +42861,7 @@ js8.in
 js811.com
 js96008.com
 js99cf.com
+jsa.15tianqi.com
 jsadsdisplay.cn-beijing.log.aliyuncs.com
 jsahj.com
 jsapi.html5.qq.com
@@ -42973,7 +42962,6 @@ jsly001.com
 jsm.39yst.com
 jsm.9939.com
 jsmaochang.com
-jsmen.com
 jsmian.com
 jsmjys.com
 jsmo.xin
@@ -43213,7 +43201,6 @@ juliang8.com
 julianhd.net
 julihun.com
 julive.com
-jullycn.com
 julucn.com
 julur.com
 julyapp.com
@@ -43241,6 +43228,7 @@ jump.alibaba.com
 jump.luna.58.com
 jump1.pszyzxh.org
 jump2.bdimg.com
+jumpcnnet.com
 jumpjumpcat.com
 jumple.com
 jumpluna.58.com
@@ -48714,7 +48702,6 @@ m.ee-vip.net
 m.eqxiu.com
 m.fcb.com.cn
 m.fcb.com.cn.w.alikunlun.com
-m.frjxdv.cn
 m.g.pptv.com
 m.game.weibo.cn
 m.gaosan.com
@@ -50128,7 +50115,6 @@ memacx.com
 memagames.com
 member.bilibili.com
 member.jr.jd.com
-memedia.cn
 memewan.com
 memeyule.com
 memorieslab.com
@@ -52456,7 +52442,6 @@ n423.com
 n4403ad.doubleclick.net
 n459.com
 n5km17un.sched.s2-dk.tdnsv5.com
-n5zofzj9feqacv34ldubugdmu2piwi16.yundunwaf3.com
 n6zw.com
 n77777777.com
 n802.com
@@ -55094,7 +55079,6 @@ p.fyeds4.com
 p.gmkykj.com
 p.hnnzwhyy.com
 p.inte.sogou.com
-p.jclz622983.com
 p.junshi881.com
 p.junshifuxin.com
 p.kf3msfm.com
@@ -55553,7 +55537,6 @@ papi.look.360.cn
 papocket.com
 paquapp.com
 parallelsras.com
-parariradioweb.com
 paratera.com
 parawikis.com
 parduscycle.com
@@ -55725,7 +55708,6 @@ pc841.com
 pc9.com
 pcapi.douyucdn.cn
 pcaposter.com
-pcauto.irs01.com
 pcb-hl.com
 pcb-si.com
 pcb3.com
@@ -58816,7 +58798,6 @@ qkeke.com
 qkhtml.com
 qkkjd.com
 qkl123.com
-qklyz.com
 qknown.com
 qksw.com
 qktoutiao.com
@@ -60251,7 +60232,6 @@ report-uri.baidu.com
 report.adview.cn
 report.gamecenter.qq.com
 report.gome.com.cn
-report.huatuo.qq.com
 report.idqqimg.com
 report.meituan.com
 report.pcgec.qq.com
@@ -61403,7 +61383,6 @@ saintcos.hk
 saintic.com
 saipujianshen.com
 saipujiaoyu.com
-saiqizhi.com
 sairaicc.com
 sairui020.com
 saite-xdc.com
@@ -63855,7 +63834,6 @@ shxf.net
 shxhgzf.com
 shxiaoran.com
 shxibeiquanshe.com
-shxsy.org
 shxt.com
 shxwcb.com
 shy99.com
@@ -67198,6 +67176,7 @@ t.l.qq.com
 t.lint2.com
 t.lksb.wang
 t.mookie1.cn
+t.neolee.cn
 t.oq68.com
 t.pzclw.cn
 t.qiuqiuqipai.com
