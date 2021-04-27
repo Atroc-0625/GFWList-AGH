@@ -1150,7 +1150,6 @@
 1188.com
 1189.tv
 118cy.com
-118ex.cn
 118jm.com
 118pan.com
 118qikan.com
@@ -2389,6 +2388,7 @@
 21ejob.com
 21epub.com
 21fid.com
+21food.cn
 21food.com
 21hh.com
 21hubei.com
@@ -12200,7 +12200,6 @@ bingsns.com
 bingtuannet.com
 bingwang.cc
 bingyan.net
-bingyublog.com
 bingzhilv.com
 binkery.com
 binmt.cc
@@ -15046,6 +15045,7 @@ changingedu.com
 changjiangdata.com
 changjiangexpress.com
 changjiangtimes.com
+changjiexiang.com
 changker.com
 changkunet.com
 changliuliang.com
@@ -25553,7 +25553,6 @@ gaowenya.com
 gaoxiao88.net
 gaoxiaobang.com
 gaoxiaojob.com
-gaoxiaotu.com
 gaoxiaovod.com
 gaoxin123.com
 gaoxinbao.xyz
@@ -28827,6 +28826,7 @@ hebiw.com
 hebjxw.com
 hebl.name
 hebmusic.com
+hebnews.cn
 hebnx.com
 hebolaw.com
 hebotc.com
@@ -33970,7 +33970,6 @@ jdgslb.com
 jdgwdq.com
 jdhhmd.com
 jdhonline.com
-jdhq188.cn
 jdhyplay.com
 jdjingmai.com
 jdjinrong.com
@@ -36515,7 +36514,6 @@ kan98.com
 kanam.me
 kanbaobei.com
 kanbardata.com
-kanbilibili.com
 kanbing.net
 kanbox.com
 kanchao.com
@@ -52142,6 +52140,7 @@ shuicao.cc
 shuichachong.com
 shuichan.cc
 shuichan51.com
+shuichuli3600.com
 shuichuyu.com
 shuidichou.com
 shuididabingchou.net
@@ -53107,7 +53106,6 @@ soeol.com
 sofabiao.com
 sofang.com
 sofasofa.io
-sofastack.tech
 sofi-tech.com
 sofreight.com
 soft10.com
@@ -53254,6 +53252,7 @@ songyanjiaye.com
 songyi.net
 songyongzhi.com
 songyuan163.com
+songyuelongju.com
 songzhaopian.com
 songzi100.com
 songziren.com
@@ -66547,7 +66546,6 @@ yongsheng-sl.com
 yongshikj.com
 yongsy.com
 yongtu.net
-yongxiecm.com
 yongxinby.com
 yongxintex.com
 yongzhentang.com
@@ -67807,7 +67805,6 @@ yxhhdl.com
 yxhi.com
 yxhqj.com
 yxi.cc
-yximg.cn
 yximgs.com
 yxin18.com
 yxinbao.com
@@ -67963,7 +67960,6 @@ yyzu.com
 yyzw.com
 yyzyytj.com
 yyzzsem.com
-yz-cb.cn
 yz-iot.com
 yz-show.com
 yz061.com
@@ -70042,7 +70038,6 @@ zjyygy.com
 zjzdgj.com
 zjzffz.com
 zjzg.com
-zjzhaishi.com
 zjzj.org
 zjzjhotel.com
 zjzmds.com
