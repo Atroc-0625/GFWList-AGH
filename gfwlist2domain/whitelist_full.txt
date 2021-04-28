@@ -3493,6 +3493,7 @@
 2kandy.com
 2ktq.com
 2kz.net
+2l06k.cn
 2l0dpp.tdum.alibaba.com
 2liang.net
 2lieqi.com
@@ -4273,7 +4274,6 @@
 37live.com
 37med.com
 37pps.com
-37rj.com
 37see.com
 37tang.com
 37team.com
@@ -12486,7 +12486,6 @@ apeiwan.com
 apelearn.com
 apesk.com
 apetdog.com
-apex100.com
 apexmic.com
 apexyun.com
 apgblogs.com
@@ -12929,6 +12928,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-sage.com
+app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -13431,6 +13431,7 @@ ashow.pcpop.com
 ashvsash.com
 ashvsash.net
 asia-dns.com
+asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -15566,7 +15567,6 @@ bglog.bitauto.com
 bgmfans.com
 bgmgw.com
 bgmlist.com
-bgnhds.icu
 bgp.cn-north-1.jdcloudcs.com.jcloudlb.com
 bgren.com
 bgrimm.com
@@ -18906,7 +18906,6 @@ cdn.shuidihuzhu.com
 cdn.shuidihuzhu.com.m.alikunlun.com
 cdn.sm.cn
 cdn.sspai.com
-cdn.static.biqudu.la
 cdn.staticfile.org
 cdn.svoice.le.com
 cdn.szjhons.com
@@ -19072,7 +19071,6 @@ cdsjjy.com
 cdslsxh.com
 cdsme.com
 cdsns.com
-cdsoso.me
 cdsxlc.com
 cdsydc.com
 cdt-md.com
@@ -21728,7 +21726,6 @@ clyv5jqo.v1d.szbdyd.com
 clyv5jqr.v1d.szbdyd.com
 clz.me
 cm-10-10.getui.com
-cm-10-11.getui.com
 cm-10-133.getui.com
 cm-10-135.getui.com
 cm-10-136.getui.com
@@ -21902,6 +21899,7 @@ cms.sina.cn
 cms.tanx.com
 cms.v5.juzi.cn
 cms1924.org
+cms1api.dmall.com
 cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
@@ -22106,7 +22104,6 @@ cnaaa9.com
 cnac.account.xiaomi.com
 cnacg.cc
 cnad.com
-cnadtop.com
 cnaf.com
 cnagcoin.com
 cnaho.com
@@ -23133,7 +23130,6 @@ congzao.com
 congzhi.com
 conn.wemeet.tencent.com
 conn1.coloros.com
-conn1.oppomobile.com
 conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
@@ -24949,6 +24945,7 @@ dailibu.com
 dailijizhang.cc
 dailnkm.com
 dailuopan.com
+daily.zzx.cnklog.com
 dailyeconomic.com
 dailylog.storm.baofeng.com
 dailyqd.com
@@ -32147,7 +32144,6 @@ fox008.com
 fox163.com
 fox688.com
 fox800.xyz
-foxbeen.com
 foxconn.com
 foxera.com
 foxmail.com
@@ -32940,7 +32936,6 @@ galeo.me
 galgame.cc
 galiaoba.com
 galitv.alicdn.com
-galleon.dmall.com
 galleryapi.micloud.xiaomi.net
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
@@ -34673,6 +34668,7 @@ gran.work
 grand.ele.me
 grandcloud.cn
 grandinsight.com
+grandlisboa.com
 grandomics.com
 grapchina.org
 graph.baidu.com
@@ -37929,7 +37925,6 @@ hk-ss03.meo-sub.site
 hk-ss04.meo-sub.site
 hk.bdstatic.com
 hk.jtsh123.com
-hk.pool.ntp.org
 hk01.dns.meo-sub.site
 hk02.dns.meo-sub.site
 hk03.dns.meo-sub.site
@@ -40240,7 +40235,6 @@ i.m.58.com
 i.mail.qq.com
 i.mairuan.com
 i.meituan.com
-i.mi.com
 i.mid.tdnsv6.com
 i.mmcdn.cn
 i.news.qq.com
@@ -41778,7 +41772,6 @@ img0.baidu.com
 img0.bdstatic.com
 img0.egou.com
 img0.pconline.com.cn
-img001.microland-design.com
 img005.com
 img01.51jobcdn.com
 img01.51jobcdn.com.51jobdns.com
@@ -48070,7 +48063,6 @@ kumt.net
 kungfucloud.com
 kungfuenglish.com
 kungge.com
-kuniaozs.com
 kunjyu.com
 kunkkawu.com
 kunleen.com
@@ -49338,6 +49330,7 @@ lfwtc.com
 lfx20.com
 lfyzjck.com
 lg.365che.cc
+lg.dmall.com
 lg1024.com
 lg199.com
 lg5.com
@@ -52618,6 +52611,7 @@ match.p4p.1688.com
 matchday.cc
 matchvs.com
 matchweb.sports.qq.com
+material-ssl.mediav.com
 material.jfdaily.adsame.com
 material.mediav.com
 material.xl7.xunlei.com
@@ -63755,7 +63749,6 @@ r-tms.net
 r.99waiyu.com
 r.alicpd.top
 r.alimc1.top
-r.browser.miui.com
 r.bxb.oupeng.com
 r.djsn888.com
 r.dmp.sina.cn
@@ -66379,7 +66372,6 @@ search-x.jd.com
 search.1688.com
 search.51job.com
 search.bilibili.com
-search.browser.miui.com
 search.cdn.huya.com
 search.dpool.sina.com.cn
 search.hyhuo.com
@@ -69990,7 +69982,6 @@ st.music.163.com
 st0008.com
 st001.com
 st123.com
-st12330.com
 st180.com
 st2.dftoutiao.com
 sta-op.douyucdn.cn
@@ -76662,7 +76653,6 @@ v1.log.moji.com
 v1.phb123.com
 v1.play.log.hunantv.com
 v1.res.log.hunantv.com
-v1.taksh.cn
 v10.kwaicdn.com
 v10.kwaicdn.com.w.kunlunca.com
 v10.kwaicdn.com.w.kunlunca.com.qr.uuhimalayanqm.com
@@ -81698,6 +81688,7 @@ www.xyhn.gov.cn
 www.xzqysx.com
 www.yangjianhs.com
 www.yans017.com
+www.ybgj8.com
 www.yeeaoo.com
 www.yg3333.com
 www.yh0111.com
