@@ -2,7 +2,6 @@
 0-6.com
 0-gold.net
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00042.com
 0006266.com
@@ -276,7 +275,6 @@
 027idc.com
 027jsxh.com
 027jz.cc
-027lyw.com
 027one.com
 027qyt.com
 027qyy.com
@@ -888,7 +886,6 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -6437,7 +6434,6 @@
 591cto.com
 591fan.com
 591hx.com
-591lw.com
 591master.com
 591moto.com
 591vlog.com
@@ -6739,6 +6735,7 @@
 5w123.com
 5w52.com
 5w5w.com
+5w8.net
 5wanpk.com
 5wanq.com
 5weinisi.com
@@ -10266,7 +10263,6 @@ ad.us.sinaimg.cn
 ad.video.51togic.com
 ad.wang502.com
 ad.weixin.qq.com
-ad.winrar.com.cn
 ad.wlanbanlv.com
 ad.ximalaya.com
 ad.xkspbz.com
@@ -10436,6 +10432,7 @@ adm.265g.com
 adm.52swine.com
 adm.baidu.com
 adm.cloud.cnfol.com
+adm.easou.com
 adm.funshion.com
 adm.icast.cn
 adm.leju.com
@@ -11142,7 +11139,6 @@ aiketour.com
 aikeu.com
 aikexi.com
 aikf.com
-aikontec.com
 aikucun.com
 ailaba.org
 aileleba.com
@@ -12495,6 +12491,7 @@ apgblogs.com
 apgoview.com
 aphidic.com
 api-20200527.xkspbz.com
+api-a.op-mobile.opera.com
 api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
 api-accounts.firefox.com.cn
@@ -12849,7 +12846,6 @@ apis1.gifshow.com
 apis1.ksapisrv.com
 apis2.gifshow.com
 apis2.ksapisrv.com
-apisnd.heytapmobi.com
 apisoft.df0535.com
 apissl.gifshow.com
 apissl.ksapisrv.com
@@ -12947,6 +12943,7 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -12999,6 +12996,7 @@ appactivity.wmpvp.com
 appadhoc.com
 appao.com
 appapi.17house.com
+appapi.dmall.com
 appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
@@ -13432,7 +13430,6 @@ ashow.pcpop.com
 ashvsash.com
 ashvsash.net
 asia-dns.com
-asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -13865,7 +13862,6 @@ awoyun.com
 awp-assets.meituan.net
 awp-assets2.meituan.net
 awp.meituan.com
-awqsaged.cn
 awrsx.cn
 awscf.azchcdnk.com
 awsok.com
@@ -25526,7 +25522,6 @@ dbzyz.com
 dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
-dc.chillyroom.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
 dc.meitustat.com
@@ -28859,7 +28854,6 @@ easthome.com
 eastib.com
 eastled.com
 eastlending.com
-eastmoney.allyes.com
 eastmoney.com
 eastmoneyfutures.com
 eastmoneyloans.com
@@ -32969,6 +32963,7 @@ game.adwo.com
 game.baichuanhd.cn
 game.bilibili.com
 game.bilibili.com.w.cdngslb.com
+game.chillyroom.com
 game.china.com
 game.eve.mdt.qq.com
 game.funshion.com
@@ -37514,7 +37509,6 @@ hfbeta.com
 hfbz.com
 hfcn.cc
 hfcyh.com
-hfdgfnn.dpwlmg.bar
 hffund.com
 hffunds.cn
 hfgjj.com
@@ -42483,6 +42477,7 @@ ios.rqd.qq.com
 ios1234.com
 ios8.app
 iosapps-cn-lb.dl-apple.com.akadns.net
+iosapps.itunes.apple.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
 iosapps.itunes.apple.com.m.alikunlun.net.v.vvpncdn.com
@@ -43632,6 +43627,7 @@ jbfoundry.com
 jbhdq.com
 jbl100.com
 jblts.com
+jbo255.com
 jbpbox.com
 jbqipa.com
 jbryun.com
@@ -45284,6 +45280,7 @@ jollybuy.com
 jomeinaster.gallerycdn.azure.cn
 jomodns.com
 jonahome.net
+jonasschnelli.ch
 jone.wang
 jongta.com
 jonllen.com
@@ -50402,6 +50399,7 @@ llywsl.ott.le.com
 llzg.com
 llzw888.com
 lm.35.com
+lm.ijq.tv
 lm.tv.sohu.com
 lm1.tuliu.com
 lm9999.com
@@ -50637,6 +50635,7 @@ login2.dingtalk.com
 loginlog.sdo.com
 loginxian.leiting.com
 logisticsy.com
+logman.dmall.com
 logmonitor.leiting.com
 logo-emblem.com
 logo123.net
@@ -51796,7 +51795,6 @@ m.nmzqhx.com
 m.nq37f.cn
 m.nuoqingck.cn
 m.ocenp.com
-m.panda.voiceads.cn
 m.pinduoduo.net
 m.pinkmore.cn
 m.poonscn.com
@@ -51863,7 +51861,6 @@ m.wuxiamh.com
 m.xd5s.com
 m.xfya3.cn
 m.xiamh.com
-m.xieyanmin.com.cn
 m.ximalaya.com
 m.xitongzhijia.net
 m.xm124.com
@@ -53144,7 +53141,6 @@ meiqiu.me
 meirenshang.com
 meiridazhe.com
 meirids.com
-meirijujiao.com
 meirishangxin.com
 meirishentie.com
 meiritv.net
@@ -58019,7 +58015,6 @@ opencdnsslv6.jomodns.com
 opencdnv6.jomodns.com
 opencdnv6test.jomodns.com
 opencdnzhihustatic.jomodns.com
-openclasses.info
 opencloud.wostore.cn
 opencoding.com
 opencourse.pku.edu.cn
@@ -59538,6 +59533,7 @@ pet82.com
 pet86.com
 peter-zhou.com
 petersonlian.com
+petertodd.org
 petkoo.com
 petmrs.com
 petnakanojo.com
@@ -61744,7 +61740,6 @@ qdsdk.jd.com
 qdserver.jd.com
 qdshitangchengbao.com
 qdshuanglide.com
-qdskill.com
 qdsntsg.com
 qdswphb.com
 qdsysj.com
@@ -62793,7 +62788,6 @@ qq.ci
 qq.cm
 qq.com
 qq.do
-qq.irs01.com
 qq.net
 qq.ugcimg.cn
 qq.vvx.highter.top
@@ -63600,7 +63594,6 @@ qx1000.com
 qx10086.net
 qx100years.com
 qx121.com
-qx15.com
 qx162.com
 qxbnkj.com
 qxbx.com
@@ -64672,7 +64665,6 @@ rmdhtyc.com
 rmfygg.court.gov.cn
 rmhospital.com
 rmjtxw.com
-rmjunshi.com
 rmlxx.com
 rmoeu.mercury.sogou.com
 rmpad.imtt.qq.com
@@ -66483,6 +66475,10 @@ seechentech.com
 seecmedia.net
 seecsee.com
 seed-china.com
+seed.bitcoin.jonasschnelli.ch
+seed.bitcoin.sipa.be
+seed.bitcoin.sprovoost.nl
+seed.btc.petertodd.org
 seedasdan.org
 seeddsp.com
 seedit.cc
@@ -68531,6 +68527,7 @@ sinvofund.com
 sinvta.com
 sinyuee.com
 sinzk.com
+sipa.be
 sipai.com
 sipaphoto.com
 sipeed.com
@@ -69699,6 +69696,7 @@ springcocoon.com
 springtour.com
 spriteapp.com
 spro.so.com
+sprovoost.nl
 sprzny.com
 spswc.com
 sptcc.com
@@ -72379,6 +72377,7 @@ tb.himg.baidu.com
 tb.mgtv.com
 tb.mgtv.com.wsglb0.com
 tb1.bdstatic.com
+tb104x.corp.youdao.com
 tb2.bdstatic.com
 tb3.bdstatic.com
 tb4.bdstatic.com
@@ -76667,6 +76666,7 @@ v1.log.moji.com
 v1.phb123.com
 v1.play.log.hunantv.com
 v1.res.log.hunantv.com
+v1.taksh.cn
 v10.kwaicdn.com
 v10.kwaicdn.com.w.kunlunca.com
 v10.kwaicdn.com.w.kunlunca.com.qr.uuhimalayanqm.com
