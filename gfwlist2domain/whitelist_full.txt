@@ -11525,7 +11525,6 @@ adshow.it168.com
 adshownew.it168.com
 adshows.21cn.com
 adsin.zhangyoubao.com
-adsjdy.com
 adsl.cn
 adslot.uc.cn
 adslr.com
@@ -11823,7 +11822,6 @@ agucn.com
 aguo.com
 agw.xinyue.qq.com
 agxs.net
-agxsw.com
 ah-inter.com
 ah-px.com
 ah.gsxt.gov.cn
@@ -14081,6 +14079,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-sage.com
+app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -14101,6 +14100,7 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -14168,10 +14168,12 @@ appactivity.wmpvp.com
 appadhoc.com
 appao.com
 appapi.17house.com
+appapi.dmall.com
 appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
 appbacklog.dftoutiao.com
+appbackupapi.micloud.xiaomi.net
 appbi.com
 appbk.com
 appbocai.com
@@ -14202,7 +14204,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -14618,7 +14619,6 @@ ase-mc.jd.com.gslb.qianxun.com
 asean-china-center.org
 aseantradecenter.com
 asearch.alicdn.com
-asen0713.com
 aseoe.com
 aserver-heyi.m.taobao.com
 asew0d.tdum.alibaba.com
@@ -19124,6 +19124,8 @@ c.v4dwkcv.com
 c.w.inmobi.cn
 c.weizhenwx.com
 c.wkanx.com
+c.wxskqy.cn
+c.xdygw.com.cn
 c.xiaobaipan.com
 c.xlhwzx.cn
 c.y.qq.com
@@ -23188,7 +23190,6 @@ client-api.ele.me
 client-api.itunes.apple.com.mwcname.com
 client-dmp.suishenyun.cn
 client-lz.rili.cn
-client-monitor.tantanapp.com
 client-stats.gclick.cn
 client-upload.cn-shanghai.log.aliyuncs.com
 client.aldtop.com
@@ -23207,6 +23208,7 @@ client51.com
 clientflow.apple.com
 clientflow.apple.com.akadns.net
 clientflow.apple.com.cdn20.com
+clientgear.com
 clientlog.music.163.com
 clientlog3.music.163.com
 clientlog3.music.ntes53.netease.com
@@ -24901,7 +24903,6 @@ congzhi.com
 conn.wemeet.tencent.com
 conn1.coloros.com
 conn1.oppomobile.com
-conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com
@@ -25570,6 +25571,7 @@ creditxb.com
 creke.net
 creo-support.com
 crestgps.com
+crestv.com
 crewcn.com
 crfchina.com
 crfly.com
@@ -25995,7 +25997,6 @@ cttzmzzh7949.cn.cn5135.com
 ctv4down.acdn.rgslb.com
 ctvpost.com
 ctvwx.com
-ctxcdn.cn
 ctxyw.com
 ctycdn.com
 ctyo.com
@@ -29273,7 +29274,6 @@ dlyeren.com
 dlyestar.com
 dlyile.com
 dlyilian.com
-dlyukun.cn
 dlzb.com
 dlztb.com
 dlzyc.com
@@ -31239,7 +31239,6 @@ dymi.cc
 dyn.ithome.com
 dyn.wps.cn
 dynacw.com.cn
-dynamic-ip.xyz
 dynamic.api.tiles.ditu.live.com
 dynamic.app.m.letv.com
 dynamic.live.app.m.letv.com
@@ -31564,7 +31563,6 @@ e7890.com
 e7e.co
 e7e6.net
 e7e7e7.com
-e7free.allyes.com
 e7wei.com
 e8068.com
 e816.cc
@@ -32346,7 +32344,6 @@ eis100.com
 eisdl.com
 eisoo.com
 eistudy.com
-eistudy.net
 eit0571.com
 eiv.baidu.com
 ej38.com
@@ -39135,7 +39132,6 @@ hagmanagerres-drcn.dbankcdn.com
 hagres-drcn.dbankcdn.com
 haguan.com
 haguotu.com
-haguro.moe
 haguworld.com
 haha168.com
 haha33.com
@@ -42391,6 +42387,7 @@ huajialishe.com
 huajianmed.com
 huajiao.com
 huajie8.com
+huajifen.com
 huajin100.com
 huajing-inf.com
 huajingsec.com
@@ -43622,7 +43619,6 @@ i.51job.com
 i.51job.com.51jobdns.com
 i.9le.net
 i.adsame.com
-i.ai.mi.com
 i.ali213.net
 i.alicdn.com
 i.alicdn.com.danuoyi.tbcache.com
@@ -43707,7 +43703,6 @@ i1.17173cdn.com
 i1.chuimg.com
 i1.fuimg.com
 i1.go2yd.com
-i1.hdslb.com
 i1.hoopchina.com.cn
 i1.letvimg.com
 i1.sinaimg.cn
@@ -46125,7 +46120,6 @@ interface.biliapi.com
 interface.bilibili.com
 interface.dmzj.com
 interface.im.taobao.com
-interface.music.163.com
 interface.sina.cn
 interface2.mxingkong.com.cn
 interface3.music.163.com
@@ -51786,6 +51780,7 @@ ku6dj.com
 ku6img.com
 ku6vms.com
 ku7711.net
+ku8.tv
 ku82.com
 ku86.com
 ku8ku8.com
@@ -53229,6 +53224,7 @@ letfind.com
 leting.io
 letmeneembibvnf.hk
 letoom.com
+letou118.net
 letou8.com
 letouqp.com
 lets-study.com
@@ -53238,7 +53234,6 @@ lettercloud.net
 letuknowit.com
 letushu.com
 letv-cdn.com
-letv.allyes.com
 letv.axp.admaster.com.cn
 letv.cn
 letv.com
@@ -55768,7 +55763,6 @@ lzccb.com
 lzcqt.com
 lzeweb.com
 lzfjq.com
-lzg.im
 lzgxq.com
 lzhongdian.com
 lzhpo.com
@@ -62974,7 +62968,6 @@ osx.dpfile.com.s2txipv6.cdntip.com
 osxapps.itunes.apple.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
-osxapps.itunes.g.aaplimg.com
 osyum.com
 osyunwei.com
 ot.io.mi.com
@@ -67173,6 +67166,7 @@ qhlly.com
 qhm1.cnzz.com
 qhm123.com
 qhm2.cnzz.com
+qhmanhua.com
 qhmhbkj.com
 qhmsg.com
 qhmt1xj5.v1d.szbdyd.com
@@ -67877,6 +67871,7 @@ qixinqiguan.com
 qixiwl.com
 qixoo.com
 qixunka.com
+qiyabi.vip
 qiye.163.com
 qiye.99114.com
 qiye.la
@@ -69244,7 +69239,6 @@ qwgt.com
 qwimm.com
 qwolf.com
 qwomcrm.com
-qwp365.cn
 qwpeo.net
 qwpo2018.com
 qwps.cn
@@ -72283,6 +72277,7 @@ search.51job.com
 search.51job.com.51jobdns.com
 search.appstore.vivo.com.cn
 search.bilibili.com
+search.browser.miui.com
 search.cdn.huya.com
 search.dangdang.com
 search.dpool.sina.com.cn
@@ -72403,7 +72398,6 @@ seechentech.com
 seecmedia.net
 seecsee.com
 seed-china.com
-seed.bitcoin.jonasschnelli.ch
 seed.btc.petertodd.org
 seedasdan.org
 seeddsp.com
@@ -72626,7 +72620,6 @@ services.googleapis.cn
 servicesupport.hicloud.com
 servicesupport1.hicloud.com
 servicewechat.com
-serving-sys.cn
 servingcdn.com
 sesamestreetenglishchina.com
 sescse.com
@@ -77145,6 +77138,7 @@ sursen.com
 sursenelec.com
 sursung.com
 surtime.com
+suruicloud.com
 survey-y.com
 survey.aliyun.com
 survey.leiting.com
@@ -83228,6 +83222,8 @@ v.weishi.qq.com
 v.weishi.qq.com.cdn.dcloudstc.com
 v.weishi.qq.com.lxdns.com
 v.weishi.qq.com.vdncache.com
+v.wxskqy.cn
+v.xdygw.com.cn
 v.xiaozhuvideo.com
 v.xiaozhuvideo.com.w.kunlunca.com
 v.xjsytoy.com
@@ -87091,6 +87087,7 @@ wltieyaoban.com
 wlwujie.com
 wlx.tenpay.com
 wlxb.sspu.edu.cn
+wlxit.com
 wlxmall.com
 wlxww.com
 wlyfw.com
@@ -87737,7 +87734,6 @@ wsproxy.douyu.com
 wsq.cool
 wss.cnzz.com
 wss.neixin.cn
-wsskj520.cn
 wsssec.com
 wssy128.com
 wstatic-hb.bj.bcebos.com
@@ -89306,6 +89302,7 @@ wxshake.com
 wxshare.yicai.com
 wxsk.sandpay.com.cn
 wxsk.sandpay.com.cn.cdn30.com
+wxskqy.cn
 wxsky.net
 wxsnsad.tc.qq.com
 wxsnsdy.tc.qq.com
@@ -98737,6 +98734,7 @@ yswebportal.cc
 yswh.com
 yswhy.com
 yswlgame.com
+yswliot.com
 yswpq.com
 yswxcn.com
 ysx8.com
@@ -99730,7 +99728,6 @@ yz063.com
 yz168.cc
 yz360.cc
 yz3g.net
-yz7ka3.cn
 yz868.com
 yzbank.com
 yzbo.tv
