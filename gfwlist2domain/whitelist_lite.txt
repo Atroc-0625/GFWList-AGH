@@ -4504,7 +4504,6 @@
 51lingji.com
 51liucheng.com
 51ljms.com
-51lolo.com
 51lovo.com
 51lucy.com
 51lunwenwang.com
@@ -9075,6 +9074,7 @@ aixiaoduo.com
 aixiashu.com
 aixiatxt.com
 aixiawa.com
+aixiawx.com
 aixiegao.com
 aixiezuo.com
 aixifan.com
@@ -11614,6 +11614,7 @@ beijing-kids.com
 beijing-lipin.com
 beijing-marathon.com
 beijing-time.org
+beijing120.com
 beijingbang.com
 beijingbaomu.com
 beijingcenterforthearts.com
@@ -13776,7 +13777,6 @@ caijingcaipiao22270.com
 caijingche.com
 caijingmen.com
 caijingmobile.com
-caijingnews.net
 caijingwu.com
 caijixia.com
 caijixia.net
@@ -20197,7 +20197,6 @@ diaokeji.net
 diaorui.net
 diaosi.net
 diaosiweb.net
-diaosu.so
 diaosu9.com
 diaosu98.com
 diaosunet.com
@@ -26190,6 +26189,7 @@ gmjk.com
 gmm01.com
 gmmicro.com
 gmmsj.com
+gmonline-all.com
 gmopce.com
 gmpanel.com
 gmrmyy.com
@@ -31161,7 +31161,6 @@ hyuuhit.com
 hywly.com
 hyxdj.com
 hyxrzs.com
-hyyazhaji.com
 hyyf.net
 hyyic.com
 hyyoa.com
@@ -31588,7 +31587,6 @@ ichehome.com
 ichenfei.com
 ichengyun.net
 ichennan.com
-icheruby.com
 ichinaceo.com
 ichinaenergy.com
 ichip.ren
@@ -36174,6 +36172,7 @@ jztsoft.com
 jztvxmt.com
 jztylxx.com
 jztzw.net
+jzvip.cc
 jzwcom.com
 jzxs.com
 jzxue.com
@@ -36805,7 +36804,6 @@ ki-pa.com
 kiaic.com
 kibey.com
 kibinggroup.com
-kicosoda.com
 kid17.com
 kidscoding8.com
 kidsdown.com
@@ -37299,7 +37297,6 @@ ksgnr.com
 kshitachi.com
 kshot.com
 ksjgs.com
-ksjsa.com
 kskino.com
 ksks001.com
 ksmobile.com
@@ -41851,6 +41848,7 @@ micaiying.com
 micblo.com
 michael-j.net
 michaelapp.com
+micheal.wang
 michelam.com
 michong.com
 michplay.com
@@ -42450,7 +42448,6 @@ moboage.com
 moboplayer.com
 moborobo.com
 mobotap.com
-moboway.com
 mobring.co
 mobrtb.com
 mobstarry.com
@@ -42744,6 +42741,7 @@ mout.me
 moutaichina.com
 movcam.com
 movcms.com
+move7.com
 movesee.com
 movesky.net
 moviemeng.com
@@ -44558,7 +44556,6 @@ ntes53.com
 ntfsformac.cc
 ntfsformac.cn
 nthfw.com
-ntjalh.com
 ntjoy.com
 ntjrchina.com
 ntjymall.com
@@ -47146,6 +47143,7 @@ pzclw.cn
 pzds.com
 pzhccb.com
 pzhht.com
+pzhttaax.cn
 pzjdimg.com
 pzjiadian.com
 pzlink.com
@@ -49623,7 +49621,6 @@ rpjrb.com
 rpo5156.com
 rpsh.net
 rpwtcn.com
-rqcotton.com
 rqi17.com
 rqjrb.com
 rqshbp.net
@@ -51485,6 +51482,7 @@ shimo.im
 shimo.run
 shimodev.com
 shimolife.com
+shimonote.com
 shimonote.net
 shineenergy.com
 shinelon.com
@@ -53226,6 +53224,7 @@ spdl.com
 spdydns.com
 spe777.com
 speed-dns.cc
+speed-idc.com
 speedcdns.com
 speednt.com
 speedpan.net
@@ -54175,7 +54174,6 @@ syf.ink
 syfw.com
 syg315.com
 sygd.com
-sygtzc.com
 syhccs.com
 syhhidc.com
 syhhkj.com
@@ -56291,7 +56289,6 @@ tophold.com
 tophr.net
 tophub.fun
 topide.com
-topidea365.com
 topit.me
 topitme.com
 topjoy.com
@@ -61574,6 +61571,7 @@ wuximediaglobal.com
 wuximeidi.com
 wuxinban.com
 wuxinews.com
+wuxiqiangheng.com
 wuxiwang.net
 wuxu92.com
 wuyang-honda.com
@@ -63843,7 +63841,6 @@ xnjcw.com
 xnjjob.com
 xnjypt.com
 xnlkj.com
-xnmcmnt.cn
 xnnpc.com
 xnongren.com
 xnow.me
