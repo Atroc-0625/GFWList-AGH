@@ -8979,6 +8979,7 @@
 88mmmoney.com
 88ng.com
 88pets.com
+88pgz.com
 88popo.com
 88rpg.net
 88sjz.com
@@ -9199,7 +9200,6 @@
 9.pic.pc6.com
 9.url.cn
 900.la
-9000.vip
 9000design.com
 9000gou.com
 9000idc.com
@@ -10392,7 +10392,6 @@ a11.gdl.netease.com
 a1166.com
 a135.net
 a1410.oadz.com
-a1491.oadz.com
 a152.cc
 a1548331f64d8af4385b4a7b9d2ccfa2.dl.txcdns.com
 a15d55423.5tps.xyz
@@ -12506,6 +12505,7 @@ ali.static.yximgs.com
 ali.static.yximgs.com.m.alikunlun.com
 ali.static.yximgs.com.m.alikunlun.com.c.cdnuyun.cn
 ali.static.yximgs.com.m.alikunlun.com.qr.uuhimalayanqm.com
+ali.xmssdn.micloud.mi.com
 ali2-course.video.yximgs.com
 ali2-course.video.yximgs.com.m.alikunlun.com
 ali2.a.yximgs.com
@@ -13607,6 +13607,7 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
+api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -13659,6 +13660,7 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
+api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -13683,6 +13685,7 @@ api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -14081,7 +14084,6 @@ app.hnzycfc.com
 app.houyi.baofeng.net
 app.ingame.qq.com
 app.jiuzhilan.com
-app.juwang.com
 app.knights.mi.com
 app.kwaixiaodian.com
 app.lz55.cn
@@ -15411,6 +15413,7 @@ babihu.com
 babsoft.net
 baby-bus.com
 baby.sina.com.cn
+baby.yf898.com
 baby.youku.com
 baby169.net
 baby577.com
@@ -16522,7 +16525,6 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -16873,6 +16875,7 @@ bfyx.com
 bfyx.net
 bfzhuce.com
 bg.v4.a.dl.ws.microsoft.com
+bg0.market.xiaomi.com
 bg1.market.xiaomi.com
 bg4.v4.a.dl.ws.microsoft.com
 bg4r2i0.cachenode.cn
@@ -17149,7 +17152,6 @@ bilibiliyoo.com
 bilicdn1.com
 bilicdn2.com
 bilicraft.com
-bilifuli.com
 biligame.com
 biligame.net
 bilimoe.com
@@ -27309,7 +27311,6 @@ dasungtech.com
 dat.gtags.net
 dat8.cc
 data-ads.oneplusmobile.com
-data-detect.nie.netease.com
 data-hoisin.coocaa.com
 data-news.cdn.cootekservice.com
 data-pic.cdn.cootekservice.com
@@ -27630,7 +27631,6 @@ dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
-dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -31393,12 +31393,10 @@ e-sscard.com
 e-stat.huya.com
 e-tiller.com
 e-tui.net
-e.2l06k.cn
 e.360.cn
 e.51sole.com
 e.91.com
 e.958so.cn
-e.967nd.cn
 e.ad.xiaomi.com
 e.baidu.com
 e.banmamedia.com
@@ -33125,6 +33123,7 @@ evlo.us
 evlook.com
 evoc.com
 evotrue.com
+evp.51job.com
 evvfuv.tdum.alibaba.com
 evyy.net
 evzhidao.com
@@ -35956,6 +35955,7 @@ galgame.cc
 galiaoba.com
 galitv.alicdn.com
 galleon.dmall.com
+galleryapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
 gallopgazelle.com
 galstars.net
@@ -46093,6 +46093,7 @@ interface.biliapi.com
 interface.bilibili.com
 interface.dmzj.com
 interface.im.taobao.com
+interface.music.163.com
 interface.sina.cn
 interface2.mxingkong.com.cn
 interface3.music.163.com
@@ -51059,7 +51060,6 @@ kgdb.info
 kgfanr.com
 kgimg.com
 kgmobilestat.kugou.com
-kgmobilestatbak.kugou.com
 kgnop2.kugou.com
 kgogame.com
 kgula.com
@@ -53667,6 +53667,7 @@ lightlygame.com
 lightonus.com
 lightpassport.com
 lightplan.cc
+lightswitch-public-service-prod06.ol.epicgames.com
 lighttp.com
 lightyy.com
 liguda.com
@@ -55825,7 +55826,6 @@ m.bilibili.com
 m.biz
 m.bndbddt.top
 m.ccb.com
-m.ccshwy.com
 m.chinaacc.com
 m.chinachooses.com
 m.chinasspp.com
@@ -56542,7 +56542,6 @@ mamilist.com
 mamioo.com
 mamipush.com
 mamsh.org
-man189.com
 man66966.top
 mana-harp.com
 manage.c3edge.com
@@ -59597,7 +59596,6 @@ mushafa.net
 mushapi.com
 mushroomchina.com
 music-pics-cn.obs.cn-north-2.myhuaweicloud.cn
-music.163.com
 music.apple.com
 music.baidu.com
 music.douban.com
@@ -61829,6 +61827,7 @@ nybaidu.net
 nychinaren.com
 nyckidsclub.com
 nydus.battle.net
+nyfg.com
 nync.com
 nypd520.com
 nyrsksw.com
@@ -68365,7 +68364,6 @@ qs12315.com
 qs7dkolx9nv6nqywzvsvgakfjsgwa9jj.yundunwaf5.com
 qs7ly.com
 qs921.com
-qsb.browser.miui.com
 qsbank.cc
 qsbbs.net
 qsbdc.com
@@ -71105,7 +71103,6 @@ s1.hy.qcloudcdn.com
 s1.ifengimg.com
 s1.irs03.com
 s1.lenovomm.cn
-s1.mingmingtehui.com
 s1.mini.wpscdn.cn
 s1.music.126.net
 s1.music.126.net.wscdns.com
@@ -72108,7 +72105,6 @@ sdly35.com
 sdlzlib.com
 sdmic.com
 sdmyzsgs.com
-sdn.geekzu.org
 sdnfv.org
 sdnjsbc.com
 sdnlab.com
@@ -75662,6 +75658,7 @@ sports.sina.com.cn
 sports.sohu.com
 sports.youku.com
 sports.youth.cn
+sports998.com
 sportsdt.com
 sposter.net
 spot.download
