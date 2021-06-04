@@ -7191,7 +7191,6 @@
 5w123.com
 5w52.com
 5w5w.com
-5w8.net
 5wanpk.com
 5wanq.com
 5weinisi.com
@@ -8584,7 +8583,6 @@
 81it.com
 81js.net
 81kx.com
-81max.com
 81tech.com
 81toutiao.com
 81tt.net
@@ -10406,7 +10404,6 @@ a2pssl-drcn.dbankcdn.cn
 a2put.chinaz.com
 a2put.chinaz.com.wswebpic.com
 a3.att.hudong.com
-a3.ikafan.com
 a3.img.static.youmi.net
 a3.jandan.net
 a3.mzstatic.com
@@ -12326,7 +12323,6 @@ ak.hypergryph.com.w.kunluncan.com
 ak0.tw
 ak1ak1.com
 ak3vc3lx.v1d.szbdyd.com
-ak47.cooguo.com
 ak47ids.com
 ak6tc3dz.v1d.szbdyd.com
 ak6tcm17.v1d.szbdyd.com
@@ -13385,7 +13381,6 @@ aoli2020.xyz
 aoliday.com
 aolylcd.com
 aomeng.net
-aomenshengjing.com
 aomenyule.net
 aomoxo.com
 aomygod.com
@@ -13689,6 +13684,7 @@ api.inmeng.net
 api.installer.xiaomi.com
 api.interaction.sohu.com
 api.io.mi.com
+api.iplay.163.com
 api.iqiyi.com
 api.ishansong.com
 api.itaoxiaoshuo.com
@@ -15853,7 +15849,6 @@ banmaaike.com
 banmajsq.com
 banmamedia.com
 banner.alimama.com
-banner.cooguo.com
 banpie.info
 banquanyin.com
 banqumusic.com
@@ -16430,7 +16425,6 @@ bdjsym.guangyuanol.cn
 bdkssc.com
 bdkyr.com
 bdlm.120askimages.com
-bdlm.jiaochengzhijia.com.cname1970.yjs-cdn.com
 bdlmggcs1.familydoctor.com.cn
 bdm.ye-su.cn
 bdmjs.xywy.com
@@ -24851,7 +24845,6 @@ congzhi.com
 conn.wemeet.tencent.com
 conn1.coloros.com
 conn1.oppomobile.com
-conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com
@@ -25110,7 +25103,6 @@ count44.51yes.com
 count45.51yes.com
 count46.51yes.com
 count47.51yes.com
-count48.51yes.com
 count49.51yes.com
 count5.51yes.com
 count5.pconline.com.cn
@@ -30485,7 +30477,6 @@ dts007.com
 dtsbc.com.cn
 dtshot.com
 dtsp99.com
-dtssmodel.com
 dtstack.com
 dtstatic.com
 dttc-icp.com
@@ -32615,7 +32606,6 @@ ent.163.com
 ent.china.com
 ent.sina.com.cn
 ent.youku.com
-ent1.12584.cn
 ent1.qunchua.cn
 ent1.qunchua.com
 ent120.com
@@ -35921,6 +35911,7 @@ galiaoba.com
 galitv.alicdn.com
 galleon.dmall.com
 galleryapi.micloud.xiaomi.net
+galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
 gallopgazelle.com
 galstars.net
@@ -43550,6 +43541,7 @@ i.51job.com
 i.51job.com.51jobdns.com
 i.9le.net
 i.adsame.com
+i.ai.mi.com
 i.ali213.net
 i.alicdn.com
 i.alicdn.com.danuoyi.tbcache.com
@@ -45006,6 +44998,7 @@ images2018.cnblogs.com
 images3.c-ctrip.com
 images3.c-ctrip.com.a.bdydns.com
 images3.c-ctrip.com.cdn20.com
+images4.c-ctrip.com
 images4.c-ctrip.com.cdn20.com
 images8.gaotie.cn
 imagescale.gmugmu.com
@@ -49128,7 +49121,6 @@ jpeen.com
 jpegonline.com
 jperation.com
 jpg.cm
-jpg.cooguo.com
 jpg.dog
 jpg.inte.sogoucdn.com
 jpg.macz.com
@@ -49577,6 +49569,7 @@ jstzjy.net
 jstzrcb.com
 jsurvey.cn
 jsw.xz6d.com
+jsw8.net
 jsw988.com
 jswebcall.com
 jswku.com
@@ -51009,7 +51002,6 @@ kgb-ifs.tanx.com
 kgdb.info
 kgfanr.com
 kgimg.com
-kgmobilestat.kugou.com
 kgogame.com
 kgula.com
 kguowai.com
@@ -53278,7 +53270,6 @@ lfx20.com
 lfyzjck.com
 lfz57739256.51sole.com
 lg.365che.cc
-lg.dmall.com
 lg1024.com
 lg199.com
 lg5.com
@@ -60506,7 +60497,6 @@ nercel.com
 nerocn.com
 nesbbs.com
 nesc.cn
-nessau.dmall.com
 nestlechinese.com
 nesxc.com
 net-add.com
@@ -70928,7 +70918,6 @@ s.gdt.qq.com
 s.go.sohu.com
 s.go2yd.com
 s.goodkee.cn
-s.guiheng.wang
 s.h5king.com
 s.hc360.com
 s.hyz86.com
@@ -77612,7 +77601,6 @@ szmc.net
 szmctc.com
 szmg.qq.com
 szmil.com
-szminiao.com
 szminorshort.weixin.qq.com
 szmmsns.qpic.cn
 szmrcd.com
@@ -80539,7 +80527,6 @@ tracker.xfapi.top
 tracker.yhd.com
 tracker114514.top
 tracker2.itzmx.com
-tracker3.itzmx.com
 tracking.ad-survey.com
 tracking.babytree.com
 tracking.cat898.com
@@ -83104,7 +83091,6 @@ v1.phb123.com
 v1.play.log.hunantv.com
 v1.res.log.hunantv.com
 v1.shankuwang.com
-v1.taksh.cn
 v1.xsj.wasu.tv
 v10.kwaicdn.com
 v10.kwaicdn.com.w.kunlunca.com
@@ -88184,7 +88170,6 @@ www.cnzz.com
 www.cocoachina.com
 www.codefat.cn
 www.cods.org.cn
-www.coinall.com
 www.com.my
 www.comsenz.com
 www.coolapk.com
