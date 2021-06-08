@@ -1502,7 +1502,6 @@
 238b9aa1e321eaf3d889b88ff0be8cc3.clo.footprintdns.com
 23g.io
 23juqing.com
-23uscom.com
 23w4erdtfg.000webhostapp.com
 24-ads.com
 24-courier.push.apple.com
@@ -1553,7 +1552,6 @@
 24hrs.ca
 24k.hk
 24k88.com
-24k99.net
 24kidea.com
 24log.es
 24media.gr
@@ -9519,7 +9517,6 @@ amos5lynn.com
 amothersheart.net
 amothg.bigam.ru
 amoweb.fr
-amp-api-edge.music.apple.com
 amp-api-music-lb.itunes-apple.com.akadns.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api.apps-lb.itunes-apple.com.akadns.net
@@ -11125,7 +11122,6 @@ apple.co.mz
 apple.co.nz
 apple.co.th
 apple.co.uk
-apple.com
 apple.com.af
 apple.com.akadns.net
 apple.com.au
@@ -23516,6 +23512,7 @@ count.yandeg.ru
 count13.51yes.com
 count18.51yes.com
 count5.51yes.com
+count6.51yes.com
 counter-strike.net
 counter.123counts.com
 counter.1gb.ru
@@ -25939,6 +25936,7 @@ data-a.ns.emailvision.net.daraz.com
 data-beacons.s-onetag.com
 data-cdn.mbamupdates.com
 data-collector.wefi.com
+data-detect.nie.netease.com
 data-failover.eroadvertising.com
 data-id.ads.oppomobile.com
 data-optout-service.uca.cloud.unity3d.com
@@ -28001,7 +27999,6 @@ dns.arapurayil.com
 dns.blokada.org
 dns.cloudflare.com
 dns.comss.one
-dns.containerpi.com
 dns.decloudus.com
 dns.digitale-gesellschaft.ch
 dns.dns-over-https.com
@@ -34454,7 +34451,6 @@ fjellsport.no
 fjellvann.no
 fjgcai.zlavomat.sk
 fjhaode.com
-fjhongou.com
 fjighz.armaniexchange.com
 fjkakuri.com
 fjonlinefair.com
@@ -36245,7 +36241,6 @@ fxcmapac.com
 fxcmcn.com
 fxdd.com
 fxempire.com
-fxeye.com
 fxfomm.tegeldepot.nl
 fxipreferral.americanexpress.com
 fxjs.2541.com
@@ -41711,6 +41706,7 @@ hamropatro.com
 hamster.darkbit.io
 hamza1366.hopto.org
 han-duty.com
+hanascan.com
 handbag.com
 handbags-nike.com
 handbagsoutletebay.com
@@ -43350,6 +43346,7 @@ hot-jav.xyz
 hot-mob.com
 hot-sex-tube.com
 hot.browser.intl.miui.com
+hot.browser.miui.com
 hot.useractive.com
 hot1024.win
 hot4k.org
@@ -50174,7 +50171,6 @@ keruquz.duckdns.org
 kestrafinancial.com
 ket.org
 ketamine.cf
-ketanggungan.desabrebes.id
 ketchcdn.com
 ketof.000webhostapp.com
 kettle.cf
@@ -50922,7 +50918,6 @@ kstptv5.com
 kt-prod.apple.com
 kt-prod.ess-apple.com.akadns.net
 kt.com
-kt11.net
 ktc-school.com
 ktgroup.com.ua
 ktgtlh.lsboutique.ru
@@ -56250,7 +56245,6 @@ mb.ms.mrbonus.com
 mb.vesti.ru
 mb.videolan.org
 mb.zam.com
-mb03.dsn02.co
 mb3admin.com
 mb99.vip
 mbafcpa.actonservice.com
@@ -60999,7 +60993,6 @@ nazaki.duckdns.org
 nazari.org
 nazarvitalik.000webhostapp.com
 nazi.net
-nb-abc.com
 nb.5.p2l.info
 nb.myspace.com
 nb.ns01.biz
@@ -74078,6 +74071,7 @@ s1.intimshop.ru
 s1.kuaibaopay.com
 s1.leshi123.cc
 s1.longs1.vip
+s1.qiqutt.cn
 s1.s8tu.com
 s1.subaru.com
 s1.symcb.com

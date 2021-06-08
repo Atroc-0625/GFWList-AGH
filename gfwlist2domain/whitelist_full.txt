@@ -914,6 +914,7 @@
 1.92caijing.com
 1.aili.com
 1.arpun.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
@@ -12921,6 +12922,7 @@ amon.org
 amon1997.com
 amos.alicdn.com
 amos.im.alisoft.com
+amp-api-edge.music.apple.com
 amp-api-edge.music.apple.com.cdn20.com
 amp-api-search-edge.apps.apple.com.cdn20.com
 amp-api.apps.apple.com.cdn20.com
@@ -14195,6 +14197,7 @@ applaudads.com
 appldnld.apple.com
 appldnld.g.aaplimg.com
 apple-www.le.com
+apple.com
 apple.com.cn
 apple.www.letv.com
 apple110.com
@@ -16254,7 +16257,6 @@ bclsw.com
 bcmcdn.com
 bcmeng.com
 bcnzbi.tdum.alibaba.com
-bcode.zhantai.com
 bcoderss.com
 bcopsp1.cachenode.cn
 bcpcn.com
@@ -21150,7 +21152,6 @@ channel.api.duapp.com
 channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
 channel.kandian.qq.com
-channel.m.163.com
 channel.vaptcha.net
 channel.vaptcha.net.w.cdngslb.com
 channel2-account-ssl.xunlei.com
@@ -23716,6 +23717,7 @@ cn.innity-asia.com
 cn.launcher.battlenet.com.cn
 cn.linkedin.com
 cn.made-in-china.com
+cn.mclean.50union.com
 cn.msi.com
 cn.mvconf.50union.com
 cn.net
@@ -27561,7 +27563,6 @@ dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
-dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -40097,7 +40098,6 @@ hcx99.com
 hcxchina.com
 hcxcw.com
 hcxy6.com
-hcxzdanbao.com
 hcy.cc
 hcyacg.com
 hcyy.org
@@ -45734,7 +45734,6 @@ ind-app-comp.com
 ind9ed.com
 indaboom.com
 index.baidu.com
-index.woai310.com
 indexedu.com
 indexedu.net
 indiancn.com
@@ -72205,7 +72204,6 @@ seechentech.com
 seecmedia.net
 seecsee.com
 seed-china.com
-seed.bitcoin.sprovoost.nl
 seedasdan.org
 seeddsp.com
 seedit.cc
@@ -73804,7 +73802,6 @@ shubulo.com
 shubuzi.com
 shuc-android.ksord.com
 shuc-js.ksord.com
-shuc-pc-hamlet.ksord.com
 shucaiguaguo.com
 shucaixiaoshuo.com
 shuchengxian.com
@@ -81853,7 +81850,6 @@ ucsec.ucweb.com
 ucsec1.ucweb.com
 uctrac.com
 uctxt.com
-ucus.ucweb.com
 ucuuc.com
 ucweb.com
 ucxinwen.com
