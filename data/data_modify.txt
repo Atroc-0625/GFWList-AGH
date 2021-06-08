@@ -66,14 +66,17 @@
 # AniX.Moe
 (@&!)www.anix.moe
 
+# Apple
+(@%!)apple.com
+
+# Apple Music
+(@%!)amp-api-edge.music.apple.com
+
 # 阿里 DNS
 (@%!)dns.alidns.com
 
 # 阿里巴巴 CDN #8
 (@%!)alibabadns.com
-
-# mobilegw.alipay.com
-(@%!)mobilegw.alipay.com
 
 # 必应
 (@%!)cn.bing.com
@@ -129,5 +132,8 @@
 
 # UC 浏览器 #8
 (@%!)uc.cn
+
+# 支付宝
+(@%!)mobilegw.alipay.com
 
 ## 自定义规则 - 结束
