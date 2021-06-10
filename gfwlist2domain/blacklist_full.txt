@@ -965,7 +965,6 @@
 187f7deefc81732e7115b0cbe59957c0.clo.footprintdns.com
 188226.com
 188522.com
-1885888.com
 188685.com
 1888810.com
 188982.com
@@ -1291,6 +1290,7 @@
 2.speedknow.co
 2.tlu.dl.delivery.mp.microsoft.com
 2.top4top.io
+2.tuxi.com.cn
 20-courier.push.apple.com
 20-courier2.push.apple.com
 20-fahrten-bahn.de
@@ -1467,7 +1467,6 @@
 22afcp.com
 22find.com
 22gg940.com
-22jinsha.com
 22l54sjb9226u1m2.aliyunddos0026.com
 22leto.com
 22letou.com
@@ -7241,7 +7240,6 @@ ads.pexi.nl
 ads.pfl.ua
 ads.phim47.com
 ads.phimhp.com
-ads.phimvang.org
 ads.phpclasses.org
 ads.phunuonline.com.vn
 ads.phunusuckhoe.vn
@@ -9642,7 +9640,6 @@ analog.com
 analogjoe.com
 analy1.dtnnetwork.be
 analyse.bcovery.com
-analysis.afreecatv.com
 analysis.fc2.com
 analysis.polarisoffice.com
 analysis.torrenthaja7.com
@@ -10518,7 +10515,6 @@ apfritts.com
 aphjor.welovepuzzle.ro
 api-2-0.spot.im
 api-3-0-0.twitter.com
-api-a.op-mobile.opera.com
 api-adservices.apple.com
 api-analytics-bootstrap.metaps.com
 api-analytics.metaps.com
@@ -10630,7 +10626,6 @@ api.cloudmobi.net
 api.codacy.com
 api.codeclimate.com
 api.coinerra.com
-api.comm.miui.com
 api.company-target.com
 api.cookielaw-script.it
 api.cookielaw.eu
@@ -10817,6 +10812,7 @@ api.wfxll.com
 api.wipmania.com
 api.wootric.com
 api.wootric.com.herokudns.com
+api.wtzw.com
 api.xmrpool.net
 api.xuann.wang
 api02.thebigknow.com
@@ -11075,7 +11071,6 @@ appcloud.com
 appcloudcdn.com
 appconsent.io
 appcontent.serif.com
-appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appdynamics.co.uk
@@ -16709,7 +16704,6 @@ bodybuilding.com
 bodybybtl.com
 bodycote.com
 bodyfluids-jav.com
-bodylistener-hk.com
 boehringer-ingelheim.ca
 boehringer-ingelheim.com
 boehringer-ingelheim.de
@@ -18508,7 +18502,6 @@ ca4.revieworbit.com
 ca488.com
 ca5066.com
 ca515.com
-ca518.com
 ca538.com
 ca5566.com
 ca559.com
@@ -19954,7 +19947,6 @@ cdn.teads.tv
 cdn.techcommunity.microsoft.com
 cdn.tekoapis.com
 cdn.termius.com
-cdn.tinglian.com
 cdn.tinypass.com
 cdn.tophatch.com
 cdn.tpmedia.online
@@ -23387,7 +23379,6 @@ core.bruynzeelkeukens.nl
 core.gcp.vip.tantanapp.com
 core.royalads.net
 core.spreedly.com
-core.tantanapp.com
 core.unit-sense.net
 core.vnecdn.com
 core3.proxyswitcher.com
@@ -29457,7 +29448,6 @@ e-wie-einfach.de
 e-wok.tv
 e-words.jp
 e-zone.com.hk
-e.53trya.cn
 e.60sk.ru
 e.7clink.com
 e.ailix.cn
@@ -32976,6 +32966,7 @@ f4.shared.global.fastly.net
 f5.com
 f5.dfcwg.com
 f5.info.tm
+f5.mtqys.com
 f555.flnet.org
 f5577.com
 f576a90a75208fd253269b9a45821173.fp.measure.office.com
@@ -35698,7 +35689,6 @@ freevpnhosting.com
 freevpnservers.com
 freevpnsoftware.net
 freevpnss.com
-freevpnssh.com
 freevpnusa.com
 freevpnworld.com
 freewallpaper4.me
@@ -37508,7 +37498,6 @@ gg.bet
 gg.btnk024.com
 gg.egouz.com
 gg.icad.ae.org
-gg.jkmeishi.com
 gg.pl
 gg168.xyz
 gg2.dss9927.com
@@ -37820,6 +37809,7 @@ gleichheit.de
 glennhilton.com
 gleventslive.com.br
 glextv.com
+glg.uu.163.com
 glide.com
 glide.org
 glideapps.com
@@ -41695,7 +41685,6 @@ hair.com
 haivision.com
 haiwaitoutiao.com
 haizirv.cn
-hajnihomes.com
 hajrkn.duckdns.org
 hakkatv.org.tw
 hakuba.janis.or.jp
@@ -41737,7 +41726,6 @@ hamidabdollahi.ir
 hammer-europe.com
 hammer.de
 hammer.net
-hamptoroads.com
 hamropatro.com
 hamster.darkbit.io
 hamza1366.hopto.org
@@ -41791,7 +41779,6 @@ haoli777.com
 haoli777.net
 haoli797.com
 haomou.net
-haonic.net
 haopianw5.com
 haoqupu.com
 haosf999.com
@@ -47417,7 +47404,6 @@ ipage.com
 ipalter.com
 ipan.klxq.icu
 ipapi.tmbi.com
-ipaylike.com
 ipbc.crypto-webminer.com
 ipc.org
 ipcamouflage.com
@@ -49036,7 +49022,6 @@ jjill.com
 jjj112.net
 jjj626.net
 jjptr.com
-jjqyk.com
 jjshouse.com
 jjshouse.fr
 jjtang.com
@@ -49134,7 +49119,6 @@ jocee.jp
 jochen-hoenicke.de
 jochen-schweizer.de
 jochgvofd.a0001.net
-joci.net
 jockesnusk.duckdns.org
 jockey.com
 jody0sora.com
@@ -49381,6 +49365,7 @@ js.gdsln.ru
 js.gewuwen.com
 js.goods.redtram.com
 js.gumgum.com
+js.haoxyx.com
 js.hs-analytics.net
 js.hs-banner.com
 js.hs-scripts.com
@@ -52600,7 +52585,6 @@ lingvodics.com
 lingxiu98.com
 linicom.co.il
 linicom.co.uk
-lining888.com
 link-o-rama.com
 link.admin.kodakmoments.com
 link.afterpay.com
@@ -54078,7 +54062,6 @@ m.7990sha.com
 m.7ou7ou.com
 m.90mh.com
 m.918.com
-m.9r48f.cn
 m.a5188yes.com
 m.aak90.com
 m.acgcd.com
@@ -54214,7 +54197,6 @@ m.kcai332.com
 m.kencorp.co.jp
 m.khuoy.com
 m.kjhfy.com
-m.kyxnz.cn
 m.laoqu123.com
 m.lengren.com.cn
 m.lesanmo.top
@@ -54249,7 +54231,6 @@ m.moonuiux.top
 m.msujd.cn
 m.mth02.com
 m.muyuge.com
-m.mxguan.com
 m.myfreecams.com
 m.mysports98.com
 m.mysty.com.cn
@@ -54510,7 +54491,6 @@ macbookpro.com.au
 macbookpro.net
 macbookpro.us
 macbookpros.com
-macbooksale.com
 macboxset.com
 maccms.com
 macdonaldlaurier.ca
@@ -59879,7 +59859,6 @@ msci.com
 mscom.demdex.net
 mscomajax.vo.msecnd.net
 mscrl.microsoft.com
-mscs.svaeuzh.cn
 msdkcoll.emarbox.com
 msdn-uxservice-prod-wus.azurewebsites.net
 msdn.com
@@ -61013,7 +60992,6 @@ nautiluslib-ht-1.net.daraz.com
 nautiluslib-oa-1.net.daraz.com
 nautilusr-ln-1.net.daraz.com
 nauu66.com
-nav.cn.ronghub.com
 nav.dj0020.com
 nav.djin09.com
 nav.jbb0016.com
@@ -61905,7 +61883,6 @@ ngdproject.com
 ngensis.com
 ngeo.com
 nghenhinvietnam.vn
-nginfo.industrialinfo.com
 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 nginx-k8s.elstc.co
 nginx-nfreya.net.daraz.com
@@ -62177,7 +62154,6 @@ nikkan-spa.jp
 nikkei.co.jp
 nikkei.com
 nikkisixx.net
-niko-kp.com
 nikomo.fi
 nikoninst.com
 nikotsu.000webhostapp.com
@@ -68109,7 +68085,6 @@ plausible.phuctm97.com
 plausible.play.date
 plausible.prod.sketch.com
 plausible.promlabs.com
-plausible.punchfork.com
 plausible.rachel.systems
 plausible.regex.help
 plausible.resilienz-kongress.de
@@ -70103,6 +70078,7 @@ public.tracker.vraphim.com
 public.wmo.int
 publicaffairsbooks.com
 publicagent.com
+publicassets.cdn-apple.com
 publications.nomination.fr
 publicbroadcasting.net
 publicidad.elmundo.es
@@ -70531,7 +70507,6 @@ qgumjp.asiae.co.kr
 qgumjp.joins.com
 qgumjp.koreanzz.co.kr
 qgzskk.sunset-hill.jp
-qhdaikuan.com
 qhigh.com
 qhj-isat.com
 qhutit.abekker.by
@@ -71643,7 +71618,6 @@ r6---sn-tt1e7n7k.googlevideo.com
 r6---sn-un57en7e.googlevideo.com
 r6---sn-vgqsdn7s.googlevideo.com
 r6.galya.ru
-r6sb.com
 r7.com
 r8877.com
 r9---sn-n8v7kn7d.googlevideo.com
@@ -71935,7 +71909,6 @@ raybte.7days.ru
 raycast.app
 raycast.com
 rayer.idv.tw
-rayfilead.roxcdn.com
 raygun.io
 rayjump.com
 rayloo.com
@@ -73999,7 +73972,6 @@ s.blinds.ca
 s.blinds.com
 s.boom.ro
 s.brightspace.com
-s.c-ctrip.com
 s.c.appier.net
 s.cadent.bloomberglaw.com
 s.cameratico.com
@@ -81995,7 +81967,6 @@ stat.nyheter24.se
 stat.optad360.mgr.consensu.org
 stat.ouedkniss.com
 stat.pl
-stat.pladform.ru
 stat.pravmir.ru
 stat.prawo.pl
 stat.profinfo.pl
