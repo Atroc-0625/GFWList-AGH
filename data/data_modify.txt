@@ -108,9 +108,6 @@
 # Google DNS
 (@&!)dns.google
 
-# it-global.cn #8
-(@%!)it-global.cn
-
 # jsDelivr
 (@%!)cdn.jsdelivr.net
 (@&!)jsdelivr.net
@@ -123,11 +120,8 @@
 (@%!)securemetrics.apple.com.cn
 (@%!)www.apple.com.cn
 
-# 钱美流量 #8
-(@%!)ssnm.xyz
-
-# 上海闪耀信息科技有限公司 / 闪耀科技 #8
-(@%!)global-ict.cn
+# sol-ict.com #8
+(@%!)sol-ict.com
 (@%!)global-idc.net
 
 # UC 浏览器 #8
