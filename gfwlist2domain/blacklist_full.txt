@@ -3,7 +3,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -239,7 +238,6 @@
 07322222.com
 073ld.com
 074ld.com
-075ld.com
 07678.com
 076ld.com
 0771art.com
@@ -1151,7 +1149,6 @@
 195tt195.com
 195ttt195.com
 195u195.com
-195vvv195.com
 195www195.com
 195yyy195.com
 195yyyy.com
@@ -2226,6 +2223,7 @@
 3k7.net
 3kirikou.org
 3kliksphilip.com
+3li.cc
 3lift.com
 3loops.com
 3m.com
@@ -2521,7 +2519,6 @@
 4usky.cc
 4vvvv.cn
 4wnet.com
-4x25v.cn
 4xspeed.net
 5-courier.push.apple.com
 5-courier2.push.apple.com
@@ -3580,7 +3577,6 @@
 81666.com
 818.dopa.com
 818pb.com
-8190.jp
 81941122.com
 8194v2.abcdn9.com
 81a0ad9fd0ca536f352b358a2c5ff32d.clo.footprintdns.com
@@ -3965,7 +3961,6 @@
 920share.com
 92148.shop.m.cnlist.org
 922.info.tm
-9234.com
 92564041c465279d029220a804112c4e.clo.footprintdns.com
 925925.com
 9269av.co
@@ -6510,7 +6505,6 @@ adipex.3.p2l.info
 adipex.4.p2l.info
 adipex.hut1.ru
 adipex.shengen.ru
-adipex.t-amo.net
 adipexp.3xforum.ro
 adis.web.id
 adition.com
@@ -9129,6 +9123,7 @@ allseason.stgx.net.daraz.com
 allsites.com
 allsomali24.com
 allsport365.com
+allsportsflix.best
 allstar.cz
 allstate.com
 allthingsd.com
@@ -10944,7 +10939,6 @@ apiserver-freya.net.daraz.com
 apiserver-wlan-switch.net.daraz.com
 apiserver.r-is-1-2.net.daraz.com
 apiserverlib-ht-2.net.daraz.com
-apisnd.heytapmobi.com
 apisof.net
 apisyouwonthate.com
 apitilt.com
@@ -15637,7 +15631,6 @@ bizservers.com
 bizsol.nttdocomo.co.jp
 bizsolutions.strands.com
 biztech.ro
-biztel.jp
 bizuyghur.net
 bizweb.vn
 bizzapp.com
@@ -16729,7 +16722,6 @@ bn.sarov.info
 bn.take-profit.org
 bn1303.settings.live.net
 bn1303.storage.live.com
-bn2-ris-ap-prod-atm.trafficmanager.net
 bn2b-cor001.api.p001.1drv.com
 bn2b-cor002.api.p001.1drv.com
 bn2b-cor003.api.p001.1drv.com
@@ -19668,13 +19660,13 @@ ccb.cz
 ccbill.com
 ccbjournal.com
 ccbs.ntu.edu.tw
+ccc.sys.miui.com
 ccc112.net
 ccc3285.com
 ccc333.weebly.com
 ccc63.net
 ccch.xyz
 ccchinatour2017.weebly.com
-cccp004.com
 cccp025.com
 cccruises.com
 cccu.ca
@@ -19865,6 +19857,7 @@ cdn.advertserve.com
 cdn.advsmedia.net
 cdn.adx1.com
 cdn.akamai.steamstatic.com
+cdn.allsportsflix.best
 cdn.altitudeplatform.com
 cdn.amplitude.com
 cdn.amzuu.com
@@ -20610,7 +20603,6 @@ chantelle.com
 chanzuckerberg.com
 chaodream.com
 chaoex.com
-chaomedia.net
 chaordicsystems.com
 chaosinternational.com
 chaosmen.com
@@ -22004,7 +21996,6 @@ cltgtstor001.blob.core.windows.net
 club-internet.fr
 club1069.com
 clubcorp.com
-clubdaikin.jp
 clubdicecasino.com
 clubemultisaude.com.br
 clubfiorino.com.ar
@@ -22023,7 +22014,6 @@ cludo.com
 clue6load.com
 cluefone.com
 clumsyninjahack.goblogz.net
-clundressed.com
 cluster.adultworld.com
 cluster.chart.dk
 clusty.com
@@ -22785,7 +22775,6 @@ comet.yahoo.com
 cometmaster.com
 cometotheduckside.com
 comfortclick.co.uk
-comfortjapangr.com
 comforttecinternational.com
 comhealth.xyz
 comic-mega.me
@@ -23170,6 +23159,7 @@ consent.is
 consent.linksynergy.com
 consent.mz-web.de
 consent.prismamedia.com
+consent.themeteocompany.com
 consent.trustarc.com
 consent.truste.com
 consentcdn.cookiebot.com
@@ -23726,6 +23716,7 @@ count.webstatistik-bw.de
 count.yandeg.ru
 count10.51yes.com
 count13.51yes.com
+count14.51yes.com
 count18.51yes.com
 count31.51yes.com
 count33.51yes.com
@@ -23733,6 +23724,7 @@ count36.51yes.com
 count39.51yes.com
 count40.51yes.com
 count48.51yes.com
+count49.51yes.com
 count5.51yes.com
 count6.51yes.com
 count7.51yes.com
@@ -26182,7 +26174,6 @@ data-a.ns.emailvision.net.daraz.com
 data-beacons.s-onetag.com
 data-cdn.mbamupdates.com
 data-collector.wefi.com
-data-detect.nie.netease.com
 data-failover.eroadvertising.com
 data-id.ads.oppomobile.com
 data-optout-service.uca.cloud.unity3d.com
@@ -26258,6 +26249,7 @@ data.podwatch.io
 data.queryly.com
 data.reactandshare.com
 data.riotgames.com
+data.sec.miui.com
 data.stepstone.be
 data.stepstone.fr
 data.stepstone.nl
@@ -28075,7 +28067,6 @@ dl.wolframcdn.com
 dl.zola.com
 dl0.serctl.com
 dl0.subhd.la
-dl0679.com
 dl1.larianvault.com
 dl1234.com
 dl1d2m8ri9v3j.cloudfront.net
@@ -28974,7 +28965,6 @@ dreamforce.com
 dreamhost.com
 dreamhoster.com
 dreamlab.pl
-dreamlabdata.com
 dreamland.be
 dreamland.im
 dreammask.net
@@ -29775,7 +29765,6 @@ e.nbkbgd.cn
 e.nchet.com
 e.nexac.com
 e.oaktreemobility.co.uk
-e.puooi.com
 e.q671e.cn
 e.qxfly.com
 e.rentclv.com
@@ -30726,7 +30715,6 @@ edge-034.hkhkg-2.ce.apple-dns.net
 edge-034.hkhkg-2.icloud-content.com
 edge-040.uslax2.icloud-content.com
 edge-chat.instagram.com
-edge-dl.andomedia.com
 edge-interaction.net.daraz.com
 edge-keele-nnw-leis-mc-leis.net.daraz.com
 edge-mqtt.facebook.com
@@ -34160,7 +34148,6 @@ feelbanfresh.com
 feelfable.com.cn
 feelingtouch.com
 feeln.com
-feelway.com
 feer.com
 feesocrald.com
 feet9.com
@@ -34900,7 +34887,6 @@ flickrhivemind.net
 flickriver.com
 flightb1a4.com
 flightnetwork.com
-flightproxy-asea-02-teams.cloudapp.net
 flightproxy-asea-03-teams.cloudapp.net
 flightproxy-asse-02-teams.cloudapp.net
 flightproxy-asse-03-teams.cloudapp.net
@@ -36259,7 +36245,6 @@ fticonsulting.com
 ftiecla.com
 ftimg.net
 ftitechnology.com
-ftm.cat
 ftmsyy.jbl.com.br
 ftn.fortuneo.fr
 ftopx.com
@@ -41514,7 +41499,6 @@ growyourbusiness.rovva.com
 grpc.termius.com
 grrrgraphics.com
 grs.dbankcloud.asia
-grs.dbankcloud.com
 grss-ieee.org
 grtmpr.vertbaudet.fr
 gru14s19-in-f11.1e100.net
@@ -41662,6 +41646,7 @@ guan.domainnamesanity.com
 guanaco.homeandgardenmakeover.com
 guanaco.shelter.stream
 guancha.cn
+guandang.com
 guaneryu.com
 guangming.com.my
 guangming.org
@@ -41875,6 +41860,7 @@ gz2266.com
 gz234.com
 gz7888.com
 gzblogger.cn
+gzdirect.com
 gzdy3fisypqail5lvbu3opnv73wzg1619243461.nuid.imrworldwide.com
 gzimdi.soloautos.mx
 gzjroa.bradsdeals.com
@@ -43816,6 +43802,7 @@ hot-jav.xyz
 hot-mob.com
 hot-sex-tube.com
 hot.browser.intl.miui.com
+hot.browser.miui.com
 hot.useractive.com
 hot1024.win
 hot4k.org
@@ -49335,7 +49322,6 @@ jf2200d.com
 jf2202.com
 jf2206.com
 jf2207.com
-jf2211.com
 jf2216.com
 jf3301.com
 jf3302.com
@@ -52273,7 +52259,6 @@ ldvip31.com
 ldvip32.com
 ldvip35.com
 ldvip36.com
-ldvip37.com
 ldvip40.com
 ldvip41.com
 ldvip42.com
@@ -52555,7 +52540,6 @@ lenwhite.com
 lenzmx.com
 leo1.leon-de-bruxelles.fr
 leodataonline.es
-leogarden.com
 leon-de-bruxelles.fr
 leon.net
 leonardo.ru
@@ -54759,6 +54743,7 @@ m.iruad.com
 m.jbb006666.com
 m.jbb034.com
 m.jinchaoyu.com
+m.jinhuizhibo.com
 m.jm778899.com
 m.kanbook.net
 m.kankanwu.com
@@ -55550,6 +55535,7 @@ mandatumtrader.fi
 mandelbaerli.de
 mandg.com
 mandrillapp.com
+manfenedu.com
 manfield.com
 manga-sanctuary.com
 manga-town.net
@@ -59324,7 +59310,6 @@ misc1bulk.com
 miscmedia-9gag-fun.9cache.com
 mises.org
 mishalov.com
-mishii-list.com
 misli.com
 misrlinks.com
 misrp.com
@@ -59853,6 +59838,7 @@ mojim.com
 mok.com.my
 mokagames.com
 mokeedev.com
+mokuge.com
 mol.gov.tw
 mol.haxdo.com
 mol.im
@@ -61173,7 +61159,6 @@ mymoons.co
 mymusclevideo.com
 mymusic.net.tw
 mynamenecklace.com
-mynavi-job20s.jp
 mynavi.jp
 myners.net
 mynet.com
@@ -61523,7 +61508,6 @@ naps.com.mk
 napxv.com
 naqboz.eadwyden.com.br
 nard.ca
-naris-online.jp
 narod.ru
 narod2.ru
 narrative.io
@@ -62035,7 +62019,6 @@ netname.com.br
 netne.net
 netnordic.com
 netns2.twtelecom.net.daraz.com
-netoak.com
 netology.ru
 netowl.jp
 netpas.cc
@@ -62235,7 +62218,6 @@ newrevive.detik.com
 newrin.me
 newrutor.eu.org
 newrutor.org.pl
-news-companeo.fr
 news-nlb-cmnews-4bb63c66c50a2fd8.elb.ap-northeast-1.amazonaws.com
 news-page-themes-api.a.upc.ubisoft.com
 news-press.com
@@ -63879,6 +63861,7 @@ ntvimg-a.akamaihd.net
 ntvmsnbc.com
 ntvplus.tv
 ntx.quanliyouxi.cn
+ntxiangtai.com
 ntz-keyid-022cbeed5d77060f2833e9d5376ba8bc308cd9ba.microsoftaik.azure.net
 nu-skin-shop.firebaseio.com
 nu.edu
@@ -63977,7 +63960,6 @@ nutramigen.pl
 nutricaremall.com
 nutrisystem.com
 nutritiondata.com
-nutritionmatters.com
 nutropin.com
 nutsandboltsmedia.com
 nutsvpn.net
@@ -64229,7 +64211,6 @@ o365weve-dev.com
 o365weve-ppe.com
 o365weve.com
 o36975.ingest.sentry.io
-o3brown.com
 o433356.ingest.sentry.io
 o460837.ingest.sentry.io
 o522159.ingest.sentry.io
@@ -64638,7 +64619,6 @@ oho.slyip.net
 ohou.se
 ohqbfp.wetnwildbeauty.com
 ohrdit.kfzteile24.de
-ohscent.com
 ohseemedia.com
 ohsextv.com
 ohssr.me
@@ -70764,7 +70744,6 @@ pu0038.com
 pu0039.com
 pu0040.com
 pu148.com
-pu889.com
 pu9955.com
 pub.admedia.io
 pub.babygo.fr
@@ -71046,7 +71025,6 @@ pwofygwm33jwn7dfs3mxzx2zki9oe1620829568.nuid.imrworldwide.com
 px-cloud.net
 px-intl.ucweb.com
 px.adhigh.net
-px.ads.linkedin.cn
 px.ads.linkedin.com
 px.britepool.com
 px.cdn.creative.medialytics.com
@@ -71519,7 +71497,6 @@ qualityunit.com
 qualphone.com
 qualtrics.com
 qualys.com
-quancdn.cc
 quangcao.24h.com.vn
 quangcao.baovannghe.com.vn
 quangcao.eva.vn
@@ -73660,7 +73637,6 @@ revrtb.net
 revspringinc.com
 revtrax.com
 revver.com
-revvnu.com
 reward.ggcarry888.com
 rewards.cdn.ubisoft.com
 rewards.parago.com
@@ -73852,7 +73828,6 @@ ripple-3dc2d.firebaseio.com
 ripple.com
 ripway.com
 rireetchansons.fr
-ririnco.com
 rirxpqx.cn
 ris.api.iris.microsoft.com
 riscitsolutions.actonservice.com
@@ -76985,6 +76960,7 @@ seed-pol-1.inf.nimiq.network
 seed-pol-2.inf.nimiq.network
 seed-pol-3.inf.nimiq.network
 seed-pol-4.inf.nimiq.network
+seed.bitcoin.jonasschnelli.ch
 seed.bitcoin.sipa.be
 seed.bitcoin.sprovoost.nl
 seed.bitcoin.wiz.biz
@@ -85847,6 +85823,7 @@ taoism.net
 taojinhao.net
 taokuaiche.com
 taos-na-prod.amazon.com
+taotao3.com
 taoyard.com
 tap-check.com
 tap-nexus.appspot.com
@@ -86489,7 +86466,6 @@ teoruiz.com
 teqeft.allegromedical.com
 teracom.se
 teradata.pl
-teradox.net
 teraes.hgreg.com
 terago.ca
 teralog.techhub.co.kr
@@ -87024,6 +87000,7 @@ themercury.com.au
 themeridian.com
 themes.googleusercontent.com
 themes.kodegeartech.com
+themeteocompany.com
 themfacompanies.com
 themighty.com
 themmrf.org
@@ -91196,6 +91173,7 @@ tynt.com
 tyntec.com
 tyoebq.shopvida.com
 typcn.com
+typecho.wiki
 typegang.com
 typeisbeautiful.com
 typekit.com
@@ -92560,7 +92538,6 @@ v1-lib-ht-2.net.daraz.com
 v1-lib-ln-2.net.daraz.com
 v1-r-ch-1.net.daraz.com
 v1-r-ln-2.net.daraz.com
-v1.0594529.com
 v1.addthisedge.com
 v1.cisco-capwap-controller.net.daraz.com
 v1.csr21.net.daraz.com
@@ -96926,6 +96903,7 @@ wizcase.com
 wizcrafts.net
 wizluv.com
 wizproxy.com
+wj-jd.com
 wjbookny.com
 wjdr.net
 wjgnet.com
@@ -105887,6 +105865,7 @@ xnixpj.linio.com.pe
 xnkcgu.bussgeldkatalog.de
 xnny.net
 xnotify.xboxlive.com
+xnow.me
 xns01.com
 xnt4.ece.fr
 xntcbt.manfield.com
