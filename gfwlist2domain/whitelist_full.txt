@@ -921,7 +921,6 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -15500,7 +15499,6 @@ baidu123.com
 baidu521.com
 baidua1.cardbaobao.com
 baidua2.cardbaobao.com
-baiduada.babihu.com
 baidubaidubaidu.com
 baidubaidubaidu.net
 baidubce.com
@@ -23695,7 +23693,6 @@ cn.innity-asia.com
 cn.launcher.battlenet.com.cn
 cn.linkedin.com
 cn.made-in-china.com
-cn.mclean.50union.com
 cn.msi.com
 cn.mvconf.50union.com
 cn.net
@@ -46526,7 +46523,6 @@ iswifting.com
 it-api.com
 it-bound.com
 it-crazy.net
-it-global.cn
 it-home.org
 it-shit.com
 it.link
@@ -75021,6 +75017,7 @@ sojump.hk
 sokoban.ws
 soku.com
 sokutu.com
+sol-ict.com
 sola.gtimg.cn
 sola.gtimg.cn.cloud.tc.qq.com
 sola.gtimg.cn.x2s-dstack.sched.dcloudstc.com

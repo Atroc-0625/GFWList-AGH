@@ -32980,7 +32980,6 @@ iswifting.com
 it-api.com
 it-bound.com
 it-crazy.net
-it-global.cn
 it-home.org
 it-shit.com
 it.link
@@ -52769,6 +52768,7 @@ sojump.hk
 sokoban.ws
 soku.com
 sokutu.com
+sol-ict.com
 solarbe.com
 solaridc.com
 soldierstory-toys.com
