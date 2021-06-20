@@ -1,6 +1,7 @@
 0-100.com
 0-6.com
 0-gold.net
+00000.host
 00042.com
 0006266.com
 0006999.com
@@ -965,7 +966,6 @@
 1030car.com
 103153.com
 10333.com
-10339.com
 1035.mobi
 1040jy.com
 10419.net
@@ -9060,7 +9060,6 @@ aiyinghun.com
 aiyingli.com
 aiyingshi.com
 aiykj.com
-aiyole.com
 aiyou.com
 aiyou.tv
 aiyouman.com
@@ -10509,7 +10508,6 @@ avlsec.com
 avlyun.com
 avnpc.com
 avoscloud.com
-avpet.cc
 avq360.com
 avrvi.com
 avrw.com
@@ -11747,6 +11745,7 @@ beyonds.com
 beyoner.net
 bf10087.com
 bf35.com
+bf730.com
 bf92.com
 bfacai.top
 bfcmovie.com
@@ -12427,6 +12426,7 @@ bjkgjlu.com
 bjkhzx.com
 bjkqj.com
 bjkrtwl.com
+bjl2044.com
 bjl777.com
 bjlcs-tech.com
 bjlemon.com
@@ -14719,7 +14719,6 @@ cgartt.com
 cgbbatterysw.com
 cgbolo.com
 cgboo.com
-cgchannel.com
 cgchina.net
 cgcountry.com
 cgdown.com
@@ -15499,7 +15498,6 @@ chinabx.com
 chinabyhx.com
 chinabym.com
 chinabyte.com
-chinabyte.net
 chinabzp.com
 chinac.com
 chinac3.com
@@ -19849,6 +19847,7 @@ dezhouqh.com
 df0535.com
 df77.com
 df81.com
+df888766.com
 df9377.com
 dfafei.com
 dfbgv.com
@@ -22315,7 +22314,6 @@ efnchina.com
 efotile.com
 efount.com
 efpp.com
-eftoutiao.com
 efucms.com
 efueloil.com
 efwang.com
@@ -26589,6 +26587,7 @@ greenbodhi.com
 greenchengjian.com
 greencompute.org
 greendh.com
+greenhat.be
 greenhtml.com
 greenhua.com
 greenism.net
@@ -31284,7 +31283,6 @@ i9star.com
 i9wang.com
 ia-shenzhen.com
 ia22.com
-iac-i.org
 iacblog.com
 iadmob.com
 iadmore.com
@@ -34156,7 +34154,6 @@ jiaotou.org
 jiaoyimao.com
 jiaoyin.com
 jiaoyitu.com
-jiaoyiwu.cc
 jiaoyixia.com
 jiaoyiyoudao.art
 jiaoyizhu.com
@@ -35049,7 +35046,6 @@ jnltgm.com
 jnltwy.com
 jnmama.com
 jnmami.com
-jnmqym4.cn
 jnmtdl.com
 jnnc.com
 jnnews.tv
@@ -44640,7 +44636,6 @@ obj6.com
 objccn.io
 objcer.com
 objcoding.com
-objectyan.me
 obkoro1.com
 obkprint.com
 obolee.com
@@ -44852,7 +44847,6 @@ oldenland.com
 oldking.net
 oldlinux.org
 oldpan.me
-oldrss.com
 oldtang.com
 oleony.com
 olinone.com
@@ -50202,7 +50196,6 @@ scpic8.com
 scplt.com
 scratch-edu.com
 scrdzf.com
-scriptoj.com
 scrmtech.com
 scrsw.net
 scrtf.com
