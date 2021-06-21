@@ -4239,7 +4239,6 @@
 999.abccp1.com
 999.ch3088.com
 999.df319.com
-999.dlg789.com
 999.hx202.com
 999.jbi6689.com
 999.jbi9988.com
@@ -10792,6 +10791,7 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
+api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.geetest.com
@@ -10801,7 +10801,6 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
-api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -17697,6 +17696,7 @@ btdb.io
 btdb.proxyit.ml
 btdig.com
 btdigg.org
+btdownload.net
 btec.co.uk
 btgg.in
 btgms.com
@@ -19344,7 +19344,6 @@ careerindex.jp
 careerjournal.com
 careerpark.jp
 careers.box.com
-careers.nchjobs.org
 careers.skywest.com
 careersatfb.com
 careertrend.com
@@ -20681,7 +20680,6 @@ channelwatcher.panda.tech
 chantci.com
 chantelle.com
 chanzuckerberg.com
-chaodream.com
 chaoex.com
 chaordicsystems.com
 chaosinternational.com
@@ -21651,7 +21649,6 @@ cleveland.net
 clevelandclinic.org
 clever.com
 cleverpedia.de
-clf988.com
 clgperformance.com
 cli.bz
 clic2buy.com
@@ -23801,6 +23798,7 @@ count.yandeg.ru
 count10.51yes.com
 count14.51yes.com
 count18.51yes.com
+count2.51yes.com
 count20.51yes.com
 count28.51yes.com
 count31.51yes.com
@@ -27064,7 +27062,6 @@ derbund.ch
 derbyexperiences.com
 derbytournaments.com
 dermakor.com
-dermau.com
 dermoeczanem.com
 dero.crypto-webminer.com
 derpycoder.com
@@ -31443,7 +31440,6 @@ em-h.phncdn.com
 em.challenge.persol.co.jp
 em.getsimpleprints.com
 em.touchtunes.com
-em.touchtunesmail.com
 em1.yoursantander.co.uk
 emac.co.in
 emac.in
@@ -42718,6 +42714,7 @@ hej.henriksommerfeld.se
 heji006.com
 heji233.com
 hejoscar.dk
+hele888.com
 hele8cp.com
 helen-marlen.com
 helens.se
@@ -43509,7 +43506,6 @@ hkwesi.com
 hkwesi1.xyz
 hkwesi11.xyz
 hkwesi111.xyz
-hkwesi1111.xyz
 hkwesi11111.xyz
 hkwesi2.xyz
 hkwesi22.xyz
@@ -52555,7 +52551,6 @@ leduo.one
 lee-associates.com
 lee.easymall.com.tw
 lee.flnet.org
-leeao.com.cn
 leech.ie
 leech.stargate-project.de
 leechenyang.com
@@ -54584,7 +54579,6 @@ lutong2013.com
 lutouwang.net
 lutron.info
 lutube.cc
-lutube.me
 lutupu.com
 luturen.com
 lutusee.com
@@ -71409,7 +71403,6 @@ qiangyou.org
 qianshoublog.com
 qianyi806.com
 qianyi808.com
-qiaosiwang.com
 qidian.ca
 qiepianyun.com
 qieyz.com
@@ -72574,7 +72567,6 @@ radioformula.com.mx
 radiohilight.net
 radioking.com
 radiokm.com
-radiolibre.co
 radioline.co
 radiomango.fm
 radiometer.com
@@ -79378,7 +79370,6 @@ smetrics.boscovs.com
 smetrics.boston.com
 smetrics.bostonglobe.com
 smetrics.bpbusinesssolutions.com
-smetrics.brandsworld.com.my
 smetrics.brandsworld.com.sg
 smetrics.braunability.com
 smetrics.brett-robinson.com
