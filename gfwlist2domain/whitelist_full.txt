@@ -8856,7 +8856,6 @@
 87w00b.tdum.alibaba.com
 87yy.com
 88-z.com
-88.yunqishi.net
 88.yunqishi8.com
 8800.org
 8800808.com
@@ -11390,6 +11389,7 @@ ads.mojicdn.com
 ads.oneway.mobi
 ads.privacy.qq.com
 ads.reader.yueyouxs.com
+ads.service.kugou.com
 ads.serving-sys.cn
 ads.sina.com
 ads.sohu.com
@@ -11518,6 +11518,7 @@ adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.madserving.com
+adv.sec.miui.com
 adv.zuimeitianqi.com
 adv5678.com
 adver.qq.com
@@ -16303,6 +16304,7 @@ bd2.jobui.com
 bd2.pipaw.com
 bd2.zuimeitianqi.com
 bd2020.com
+bd275.com
 bd3.chuiyue.com
 bd3.idgdmgroup.com.cn
 bd3.idgdmgroup.com.cn.cname3016.yjs-cdn.com
@@ -16350,6 +16352,7 @@ bdfund.cn
 bdfzcd.net
 bdfzgz.net
 bdfzxj.net
+bdg381.com
 bdg88.com
 bdgg.qjy168.com
 bdgslb.com
@@ -17478,7 +17481,6 @@ bjdlzl.com
 bjdnserror1.wo.com.cn
 bjdnserror2.wo.com.cn
 bjdnserror3.wo.com.cn
-bjdnserror6.wo.com.cn
 bjdongxin.com
 bjdsppa.com
 bjdt360.com
@@ -24795,6 +24797,7 @@ connect-drcn.dbankcloud.cn
 connect-drcn.hispace.hicloud.com
 connect.play.aiseet.atianqi.com
 connect.qq.com
+connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
@@ -25008,8 +25011,6 @@ count.wk2.com
 count.xxxssk.com
 count11.51yes.com
 count22.51yes.com
-count23.51yes.com
-count32.51yes.com
 count35.51yes.com
 count38.51yes.com
 count5.pconline.com.cn
@@ -25127,7 +25128,6 @@ cpro.e.shifen.com
 cpro.fangtoo.com
 cpro.zhidao.baidu.com
 cpro.zol.com.cn
-cpro.zol.com.cn.cname2822.yjs-cdn.com
 cpro2.baidustatic.com
 cps.360buy.com
 cps.dianping.com
@@ -26798,7 +26798,6 @@ dailylog.storm.baofeng.com
 dailyqd.com
 daima.dsxdn.com
 daima.jiazhao.com
-daima.jiduan.cc
 daima.ysdui.com
 daima.yuzhulin.com
 daimabiji.com
@@ -27200,6 +27199,7 @@ data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
+data.sec.miui.com
 data.snm0516.aisee.tv
 data.sonkwo.com
 data.trendymedia.com.cn
@@ -29968,7 +29968,6 @@ dqdaygp3.v1d.szbdyd.com
 dqdgame.com
 dqguo.com
 dqhgwy.com
-dqhm.vaptcha.net
 dqhui.com
 dqiis.com
 dqiong.com
@@ -30112,7 +30111,6 @@ dshjfh.com
 dshmama.com
 dshmfsmcpsx957.shop.258.com
 dshrc.com
-dsjre.com
 dskb.co
 dsmyiyuan.com
 dsmzyy.com
@@ -39728,7 +39726,6 @@ hbddrn.com
 hbdfdh.com
 hbdmia.com
 hbdns.org
-hbdnserror1.wo.com.cn
 hbdnserror3.wo.com.cn
 hbdnserror4.wo.com.cn
 hbdnserror7.wo.com.cn
@@ -52579,7 +52576,6 @@ ldshj.com
 ldsink.com
 ldtui.com
 ldvideo.sogou.com
-ldvip37.com
 ldw4nmdt.s1txipv6.cdntip.com
 ldxsfw.com
 ldy.350.com
@@ -52654,6 +52650,7 @@ leap-pc.com
 leapahead.vip
 leapmie.com
 leapmotor.com
+learn-abc.com
 learn-quantum.com
 learn.chaoxing.com
 learn.u3d.cn
@@ -53626,7 +53623,6 @@ link.1point3acres.com
 link.bilibili.com
 link.chinaz.com
 link.jianshu.com
-link.jiduan.cc
 link.netease.im
 link.zhihu.com
 link.zhiyeapp.com
@@ -54253,7 +54249,6 @@ lncldapi.com
 lncldglobal.com
 lndao.com
 lndhdx.com
-lndnserror1.wo.com.cn
 lndnserror2.wo.com.cn
 lndnserror4.wo.com.cn
 lndnserror6.wo.com.cn
@@ -55461,7 +55456,6 @@ lz-redeem.com
 lz-static.b0.aicdn.com
 lz-www-cdn.b0.aicdn.com
 lz.lianjia.com
-lz.mingchacn.top
 lz.zu.anjuke.com
 lz13.cn
 lz160.net
@@ -55715,7 +55709,6 @@ m.news.cctv.com
 m.niu07.com
 m.nuoqingck.cn
 m.ocenp.com
-m.panda.voiceads.cn
 m.pinduoduo.net
 m.pinkmore.cn
 m.pizzahut.com.cn
@@ -67042,7 +67035,6 @@ qianquduo.com
 qianrenge.cc
 qianrihong.net
 qianrong.me
-qianrushi.org
 qiansw.com
 qiantucdn.com
 qianvisa.com
@@ -67084,7 +67076,6 @@ qiaomen8.com
 qiaomi.com
 qiaomukeji.com
 qiaoshenghuo.com
-qiaoshoumama.com
 qiaotu.com
 qiaoxuanhong.com
 qiaoyi.org
@@ -69292,7 +69283,6 @@ rayyo.com
 rayyzx.com
 razersynapse.com
 razifredz.com
-razon.xyz
 razonyang.com
 razrlele.com
 raztb.com
@@ -70759,7 +70749,6 @@ s.zampdsp.com
 s.zixuntop.com
 s.zlongad.com
 s.zol-img.com.cn
-s.zp0573.cn
 s0-img.huxiucdn.com
 s0.2mdn.net
 s0.ifengimg.com
@@ -72662,7 +72651,6 @@ shangwu168.com
 shangxiasha.com
 shangxueba.cn
 shangxueba.com
-shangxuebavip.com
 shangye.lianjia.com
 shangyejihua.com
 shangyekj.com
@@ -76453,7 +76441,6 @@ suda123.com
 sudaizhijia.com
 sudaoa.com
 sudaqq.com
-sudasuta.com
 sudidc.com
 sudu-67ph.com
 sudu-ab6h.com
@@ -85883,7 +85870,6 @@ wfyake.com
 wfycjd.com
 wfyvv.com
 wfzbjx.com
-wfzdmjg.com
 wfzqhb.com
 wfzssz.com
 wfztg.com
@@ -91228,6 +91214,7 @@ xnjcw.com
 xnjjob.com
 xnjypt.com
 xnlkj.com
+xnmcmnt.cn
 xnnpc.com
 xnongren.com
 xnpic.com
@@ -95959,6 +95946,7 @@ y.qq.com
 y.to
 y.unilz588.com
 y.zdmimg.com
+y.zp22.cn
 y0.ifengimg.com
 y001.tianjimedia.com
 y007.com

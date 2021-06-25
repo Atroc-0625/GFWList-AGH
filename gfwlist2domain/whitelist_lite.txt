@@ -775,6 +775,7 @@
 0x0.biz
 0x0.ooo
 0x0d.im
+0x100.club
 0x3.me
 0x5.me
 0x6.me
@@ -21197,7 +21198,6 @@ dshigao.com
 dshjfh.com
 dshmama.com
 dshrc.com
-dsjre.com
 dskb.co
 dsmyiyuan.com
 dsmzyy.com
@@ -38158,6 +38158,7 @@ leap-pc.com
 leapahead.vip
 leapmie.com
 leapmotor.com
+learn-abc.com
 learn-quantum.com
 learndiary.com
 learnfans.com
@@ -47372,7 +47373,6 @@ qianquduo.com
 qianrenge.cc
 qianrihong.net
 qianrong.me
-qianrushi.org
 qiansw.com
 qiantucdn.com
 qianvisa.com
@@ -47412,7 +47412,6 @@ qiaomen8.com
 qiaomi.com
 qiaomukeji.com
 qiaoshenghuo.com
-qiaoshoumama.com
 qiaotu.com
 qiaoxuanhong.com
 qiaoyi.org
@@ -48813,7 +48812,6 @@ rayuu.com
 rayyo.com
 rayyzx.com
 razifredz.com
-razon.xyz
 razonyang.com
 razrlele.com
 raztb.com
@@ -50851,7 +50849,6 @@ shangwu168.com
 shangxiasha.com
 shangxueba.cn
 shangxueba.com
-shangxuebavip.com
 shangyejihua.com
 shangyekj.com
 shangyexin.com
@@ -53465,7 +53462,6 @@ suda123.com
 sudaizhijia.com
 sudaoa.com
 sudaqq.com
-sudasuta.com
 sudidc.com
 sudu-67ph.com
 sudu-ab6h.com
@@ -59892,7 +59888,6 @@ wfyake.com
 wfycjd.com
 wfyvv.com
 wfzbjx.com
-wfzdmjg.com
 wfzqhb.com
 wfzssz.com
 wfztg.com
@@ -63610,6 +63605,7 @@ xnjcw.com
 xnjjob.com
 xnjypt.com
 xnlkj.com
+xnmcmnt.cn
 xnnpc.com
 xnongren.com
 xnpic.com
