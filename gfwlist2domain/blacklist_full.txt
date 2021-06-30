@@ -12049,7 +12049,6 @@ artistmatching-3f32f.web.app
 arto.dk
 artofnarrative.com
 artofpeacefoundation.org
-artpeace.jp
 arts-360.com
 arts.icad.ae.org
 artsculture.club
@@ -12107,6 +12106,7 @@ as.myhomebook.de
 as.mytoys.de
 as.payback.it
 as.rollingstone.de
+as.saechsische.de
 as.sexad.net
 as.sinahk.net
 as.sogo.eu.org
@@ -12337,6 +12337,7 @@ assets-email1.unidays.world
 assets-email2.unidays.world
 assets-momentum.akamaized.net
 assets-r-dw-1.net.daraz.com
+assets-share.dspunion.com
 assets.adobedtm.com
 assets.applovin.com
 assets.awscloud.com
@@ -13150,6 +13151,7 @@ awetv.com
 awfzfs.kwantum.nl
 awkafau.org
 awkrpg.lustron.ru
+awmdelivery.com
 awmplus.com
 awn1.icu
 awogtl.1stopbedrooms.com
@@ -13599,7 +13601,6 @@ b5566.com
 b5660.com
 b5687.com
 b569.com
-b595.com
 b5993.com
 b5hvuh.lotcai.com
 b5n.1password.com
@@ -15954,7 +15955,6 @@ bjh10.com
 bjh3.com
 bjh6.com
 bjhjw.com.cn
-bjl0000.com
 bjl2011.com
 bjl2033.com
 bjl2088.com
@@ -19155,6 +19155,7 @@ caknmq.rotita.com
 cal.com.my
 calabrio.com
 calag.at
+calameo-beacon.global.ssl.fastly.net
 calameo.com
 calamoycran.com
 calastone.com
@@ -22432,6 +22433,7 @@ clue6load.com
 cluefone.com
 clumsyninjahack.goblogz.net
 cluster.adultworld.com
+cluster.awmdelivery.com
 cluster.chart.dk
 clusty.com
 clvawo.lapinkids.com
@@ -22807,7 +22809,6 @@ co.in
 co.nz
 co.pl
 co.promo.skf.com
-co.ro
 co.tz
 co.uz
 co.za
@@ -41649,7 +41650,6 @@ good.ta80.com
 good2grow.com
 goodav17.com
 gooday.xyz
-goodcycle.net
 gooddaychicago.com
 gooddns.xyz
 goodforum.net
@@ -45950,7 +45950,6 @@ icq.com
 ics.com
 icsin.org
 icsystem.com
-ict-toshiba.jp
 ict.co
 ict.eu
 ictframe.com
@@ -47039,7 +47038,6 @@ influxdata.com
 infmeta.com
 info-buddhism.com
 info-cn.github.io
-info-education.com
 info-fiaminstitutional.fidelity.com
 info-fr.bureauveritas.com
 info-fsi.stanford.edu
@@ -48043,7 +48041,6 @@ informs.org
 informtext.blogspot.com
 inforpartner.net
 inforpl.mgr.consensu.org
-inforsea.com
 infos-du-net.com
 infos.anz.com
 infos.anz.com.au
@@ -51698,7 +51695,6 @@ kca.amazon.com
 kcai228.com
 kcai332.com
 kcai969.com
-kcar.com
 kcdgs.com
 kcentv.com
 kcf.wowma.jp
@@ -52702,7 +52698,6 @@ kupivip.by
 kupivip.ru
 kuppingercole.com
 kupujemprodajem.com
-kuraray.com
 kuraraydental.com
 kurashsultan.com
 kurazb.prisjakt.no
@@ -53864,7 +53859,6 @@ lexusonthepark.ca
 ley.changeip.net
 ley.flnet.org
 ley7.freewww.biz
-leyard.com
 leyinga.com
 leyubet1747.com
 leyunapp.com
@@ -60688,6 +60682,7 @@ miv.ububyiw6655.xyz
 mivyyq.safeandfair.com
 mix-collecte-it-prod-1582605754.ap-northeast-2.elb.amazonaws.com
 mix.com
+mix.kinostuff.com
 mix.tokyo
 mixaton.000webhostapp.com
 mixcloud.com
@@ -62941,7 +62936,6 @@ natpunch6.larian.com
 nats.xing.com
 natsp.xing.com
 natterbox.com
-naturalgoodthings.com
 naturalhairlatina.blogspot.hk
 naturallyinspiredflooring.woodpeckerflooring.co.uk
 naturalnews.tv
@@ -64524,7 +64518,6 @@ nonesovile.com
 noneto.com
 nong3bram.com
 nongli.911cha.com
-nongzisc.com
 nonpaints.com
 nonprofit.foundation
 nonton.ru
@@ -69481,7 +69474,6 @@ photo-ads.zaloapp.com
 photo-frame.com
 photo.5article.com
 photo.appme.tw
-photo.backerbiotech.cn
 photo.boweineng.cn
 photo.ccjxybj.cn
 photo.dhford.cn
@@ -69902,7 +69894,6 @@ pix.revjet.com
 pix.sniperlog.ru
 pix.speedbit.com
 pix.spot.im
-pix.tagcdn.com
 pix.telekom-dienste.de
 pix.telekom.de
 pix521.adtech.fr
@@ -73324,6 +73315,7 @@ r.turn.com.akadns.net
 r.twimg.com
 r.w.inmobi.com
 r.whytoss.com
+r.z2.fm
 r0.ru
 r1---sn-3pm76n76.googlevideo.com
 r1---sn-3pm7dn7k.googlevideo.com
@@ -76140,7 +76132,6 @@ rwsjpc.zdravkurort.ru
 rwykkb.boroughbox.com
 rx40.com
 rx8800.com
-rx9aef.driver-id.ru
 rx9e.4.shop.tm
 rxbchh.zipy.ro
 rxbenefits.com
@@ -76425,7 +76416,6 @@ s2.kuaibaopay.com
 s2.play.estream.to
 s2.play.estream.xyz
 s2.play.vidzi.tv
-s2.play1.videos.vidto.me
 s2.reutersmedia.net
 s2.symcb.com
 s2.tdna.me
@@ -76729,6 +76719,7 @@ sadobemetrics.la-z-boy.com
 sadout.com
 sadownload.mcafee.com
 sadv.dadapro.com
+saechsische.de
 safasti.com
 safasti.net
 safe-inet.com
@@ -77821,7 +77812,6 @@ sczxy.com
 sd-161673.dedibox.fr
 sd-bbs.net
 sd-fit.jp
-sd-nbb.de
 sd.5.p2l.info
 sd.iperceptions.com
 sd.securitasdirect.fr
@@ -82424,7 +82414,6 @@ soft.idv.tw
 soft.qymma.com
 soft32.com
 soft4fun.net
-softbag.jp
 softbank.jp
 softbank.tv
 softbankhawksstore.jp
@@ -84698,7 +84687,6 @@ static01.nyt.com
 static1.freebitco.in
 static1.kewaishu.info
 static1.sw-cdn.net
-static2.ero2you.com
 static2.freebitco.in
 static2.sharepointonline.com
 static2.sharepointonline.com.edgekey.net
@@ -84777,7 +84765,6 @@ stats-messages.gifs.com
 stats-newyork1.bloxcms.com
 stats-ssl.mdanderson.org
 stats-stats.in.net
-stats.100daystooffload.com
 stats.123c.vn
 stats.1internet.tv
 stats.24ways.org
@@ -85050,7 +85037,6 @@ stats.kde.org
 stats.keele-nnw-leis-mc-leis.net.daraz.com
 stats.kejk.tech
 stats.kensho.com
-stats.kevq.uk
 stats.keygen.sh
 stats.keyscore.me
 stats.kod.ru
@@ -90448,7 +90434,6 @@ tr.btobquotes.com
 tr.cacf-acq.ipsos-surveys.com
 tr.camara.eu.com
 tr.carte.lcl.fr
-tr.cashback.floa.fr
 tr.cb4x.floa.fr
 tr.cdnfile.com
 tr.client.emailing.bnpparibas
@@ -90517,7 +90502,6 @@ tr.europa-organisation.com
 tr.gestion.banque-casino.fr
 tr.gestion.cetelem.fr
 tr.gestion.cofinoga.fr
-tr.gestion.floa.fr
 tr.groupama-gne.fr
 tr.iadsdk.apple.com
 tr.im
@@ -90565,7 +90549,6 @@ tr.lfeeder.com
 tr.line.me
 tr.liveclicker.com
 tr.mail.enviedebienmanger.fr
-tr.mail.floa.fr
 tr.mail.koregraf.com
 tr.mail.moncoupdepouce.com
 tr.mail.satisfactory.fr
@@ -90662,7 +90645,6 @@ tr.offres-professionnelles.fr
 tr.offres.01net.com
 tr.offres.bfmtv.com
 tr.offrevip.banque-casino.fr
-tr.offrevip.floa.fr
 tr.orange-lease.fr
 tr.outbrain.com
 tr.panels-mediametrie.fr
@@ -90697,7 +90679,6 @@ tr.sfr.espmp-aufr.net
 tr.sgjk.espmp-aufr.net
 tr.smtp1.email-mediapost.fr
 tr.snapchat.com
-tr.souscription.floa.fr
 tr.spain.plimsoll.es
 tr.steins-gate.moe
 tr.strategie.gouv.fr
@@ -109999,6 +109980,7 @@ z1.zhishidu.com
 z100.com
 z1n.000webhostapp.com
 z2.cnywst.com
+z2.fm
 z2.zhishidu.com
 z2py.com
 z3.ax1x.com

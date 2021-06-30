@@ -911,6 +911,7 @@
 1.92caijing.com
 1.aili.com
 1.arpun.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
@@ -9944,6 +9945,7 @@
 99inn.cc
 99jianzhu.com
 99jiaoshi.com
+99js.rxys.com
 99k5.com
 99kgames.com
 99lb.net
@@ -52936,6 +52938,7 @@ lexun.com
 lexun365.com
 leyaoyao.com
 leyaoyao.org
+leyard.com
 leybc.com
 leyifan.com
 leying.com
@@ -63121,7 +63124,6 @@ p9.qhimg.com
 p9.toutiaoimg.com
 p91sfbfpqa0wd2.mwcname.com
 p98.pstatp.com
-p98ytk.cn
 p99998888.com
 pa.ugdtimg.com
 pa18.com
@@ -82745,6 +82747,7 @@ v1.phb123.com
 v1.play.log.hunantv.com
 v1.res.log.hunantv.com
 v1.shankuwang.com
+v1.taksh.cn
 v1.wphonelife.com
 v1.xsj.wasu.tv
 v10.kwaicdn.com
