@@ -369,6 +369,7 @@
 1.bb6688.ws
 1.bh5.com.cn
 1.car21.net.daraz.com
+1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -690,6 +691,7 @@
 12vpn.com
 12vpn.net
 12vpx.com
+12yc.cc
 13-courier.push.apple.com
 13-courier2.push.apple.com
 13.courier-push-apple.com.akadns.net
@@ -2746,7 +2748,6 @@
 51sa36.com
 51sis.live
 51smt2.xyz
-51tmt.net
 51tvlu.com
 51wanqiu.net
 51x.mododns.com
@@ -2851,7 +2852,6 @@
 53ll.com
 53sbc.com
 53sikao.com
-53trya.cn
 53world.com
 53worldsweeps.com
 5405.com
@@ -3145,6 +3145,7 @@
 63214.bodis.com
 633.com
 633.etowns.org
+63346.com
 633a.com
 633ca.com
 633ct.com
@@ -3425,6 +3426,7 @@
 7160.com
 7171hu.com
 71749b.com
+71ab.com
 71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr
 71i.de
 71wx.net
@@ -3821,6 +3823,7 @@
 85tube.com
 86.info.tm
 861212.com
+86188.com
 863.zyns.com
 863171.com
 867468.com
@@ -5009,7 +5012,6 @@ a51404801860511eabe260a5fac8573f-308402611.eu-central-1.elb.amazonaws.com
 a5188yes.com
 a52828.com
 a553.g.akamai.net
-a5771.com
 a58955.com
 a5r6.com
 a5xo-eng.spankbang.com
@@ -5340,7 +5342,6 @@ abcnews.hb.omtrdc.net
 abcolesterolo.it
 abcotv.hb-api.omtrdc.net
 abcotv.hb.omtrdc.net
-abctrack.bid
 abctv.com
 abcvg.info
 abcvisiteurs.com
@@ -5363,7 +5364,6 @@ abetterrouteplanner.com
 abgoutbound.com
 abgsex.net.daraz.com
 abi.org
-abid.w38store.ru
 abilifymaintena.com
 abilifymycite.com
 ability.kir.jp
@@ -10891,6 +10891,7 @@ api.betterttv.net
 api.bitp.it
 api.bounceexchange.com
 api.breezip.com
+api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.bunzlaucastle.com
@@ -10938,7 +10939,6 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
-api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.geetest.com
@@ -10948,7 +10948,6 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
-api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -12946,7 +12945,6 @@ av181.net
 av234567.com
 av28.com
 av2be.com
-av30.net
 av539.com
 av591.com
 av666.tv
@@ -14891,7 +14889,6 @@ beatspascher-fr.net
 beatspascher.net
 beatspaschers.net
 beatspillnewcolor.com
-beatspills.com
 beatspromonsterjp.com
 beatspromotions.com
 beatssales.com
@@ -15954,7 +15951,6 @@ bjfengguang.com
 bjh10.com
 bjh3.com
 bjh6.com
-bjhjw.com.cn
 bjl2011.com
 bjl2033.com
 bjl2088.com
@@ -20001,7 +19997,6 @@ cbtc.org.hk
 cbtpzx.merrjep.al
 cbtpzx.pazar3.mk
 cbvjddh.23txt.com
-cbzhuanyun.com
 cc-api-behance.adobe.io
 cc-api-data.adobe.io
 cc-api-teamprojects-ue1.adobe.io
@@ -20053,7 +20048,6 @@ ccc333.weebly.com
 ccc63.net
 ccch.xyz
 ccchinatour2017.weebly.com
-cccp025.com
 cccruises.com
 cccu.ca
 ccdior.com
@@ -21205,6 +21199,7 @@ chenpokong.com
 chenpokong.net
 chenpokongvip.com
 chenshan20042005.wordpress.com
+chenwentan.com
 chenyehao.spaces.live.com
 chenyonghua.cn
 chep.com
@@ -21303,7 +21298,6 @@ china.hket.com
 china.petaasiapacific.com
 china.resellerclub.com
 china.swissquote.com
-china.tg
 china101.com
 china18.org
 china21.com
@@ -24198,6 +24192,7 @@ count42.51yes.com
 count43.51yes.com
 count45.51yes.com
 count46.51yes.com
+count47.51yes.com
 count48.51yes.com
 count49.51yes.com
 count5.51yes.com
@@ -25923,7 +25918,6 @@ d29vzk4ow07wi7.cloudfront.net
 d2a945og79nayl.cloudfront.net
 d2anahhhmp1ffz.cloudfront.net
 d2au4l2o128joe.cloudfront.net
-d2axgrpnciinw7.cloudfront.net
 d2b7n13v8adl6f.cloudfront.net
 d2bay.com
 d2bbvl6dq48fa6.cloudfront.net
@@ -33121,7 +33115,6 @@ eugenecascadescoast.org
 eugeny.github.io
 euk.slyip.net
 eulam.com
-eulatracking-public-service-prod06.ol.epicgames.com
 euldnr.rezat.ru
 eule1.pmu.fr
 eulerian.belambra.be
@@ -34380,6 +34373,7 @@ fangeqiang.com
 fangjia.911cha.com
 fanglizhi.info
 fangongheike.com
+fangshuigongcheng.net
 fanguangxin.com
 fangxia979.com
 fangyanzhijia.com
@@ -41249,7 +41243,6 @@ go.upt-co.com
 go.upward.jp
 go.urkund.com
 go.us.bureauveritas.com
-go.usacollectivesupply.online
 go.usatestprep.com
 go.uscad.com
 go.usp.org
@@ -42732,6 +42725,7 @@ gxjnyy.contorion.fr
 gxkyl.com
 gxso.net
 gxwztv.com
+gxzhiwei.com
 gy911.com
 gy978.xyz
 gyalwarinpoche.com
@@ -43759,6 +43753,7 @@ hf2619.com
 hfashionmall.com
 hfd.bridgetowermedia.com
 hfday.com
+hfdgfnn.dpwlmg.bar
 hfet.org
 hffttk.sandro-paris.ru
 hfgrandtheatre.com
@@ -44394,6 +44389,7 @@ hmzsfmjc.com
 hn-button.herokuapp.com
 hn6gc.cnamedns.net
 hnbhcu.kassir.ru
+hnboxu.com
 hnbutton.appspot.com
 hncnnews.net
 hnd-efz.ms-acdc.office.com
@@ -44737,6 +44733,7 @@ hot-jav.xyz
 hot-mob.com
 hot-sex-tube.com
 hot.browser.intl.miui.com
+hot.browser.miui.com
 hot.useractive.com
 hot1024.win
 hot4k.org
@@ -45639,7 +45636,6 @@ i.sng.link
 i.ssix.io
 i.stack.imgur.com
 i.static.zaplata.bg
-i.tantanapp.com
 i.v2ex.co
 i.vimeocdn.com
 i.w55c.net
@@ -48969,7 +48965,6 @@ ipfsgateway.makersplace.com
 ipge.com
 ipgphotonics.box.com
 ipgphotonics.com
-iphine.com
 iphone-dev.org
 iphone-ld.apple.com-v1.edgesuite.net
 iphone-ld.origin-apple.com.akadns.net
@@ -50072,6 +50067,7 @@ javamateur.com
 javarchive.com
 javarevisited.blogspot.in
 javascriptcounter.appspot.com
+javaweb.io
 javaweb.org
 javaworld.com
 javbaike.com
@@ -50959,7 +50955,6 @@ js.foxpush.com
 js.gaijin.net
 js.gdsln.ru
 js.gewuwen.com
-js.goods.redtram.com
 js.gumgum.com
 js.hs-analytics.net
 js.hs-banner.com
@@ -51193,6 +51188,7 @@ juoaa.com
 jupiterns.org
 jupyter.org
 juqyxa.com
+jur.unn.ac.ru
 jurassicpark.newzgames.com
 jurgens.com.ar
 juridicas.com
@@ -52472,9 +52468,9 @@ kqoelg.ultrafootball.com
 kqscrl.bonprix.nl
 kqzvfa.maxitoys.fr
 kr.bt4g.org
-kr.ghproxy.com
 kr.neoz.club
 kr.ua
+kr1.direct.iplc.pro
 kr1.hkts.win
 kr2.000714.xyz
 krak.dk
@@ -55809,7 +55805,6 @@ m.21haodianmt.com
 m.23txt.com
 m.2805u.com
 m.288ysb.com
-m.2l7ha.cn
 m.3987.com
 m.4irc.com
 m.4tube.com
@@ -55888,7 +55883,6 @@ m.d8qu.com
 m.dante2007.com
 m.dceni.com
 m.delltechnologies.com
-m.dfh39.com
 m.dgaoz.com
 m.dj0020.com
 m.dk957.com
@@ -58288,7 +58282,6 @@ mdr.de
 mdrctr.com
 mds.nipa.co.th
 mds.ricoh.es
-mds.xmgsjd.com
 mdse.com.au
 mdshop.com.tw
 mdsmatch.com
@@ -60083,6 +60076,7 @@ miffyliye.org
 mig4.ddns.ms
 mightiger.net
 mightycast.com
+migudy.com
 miguelsuarez.cl
 mihanblog.com
 mihiepa.com
@@ -62295,7 +62289,6 @@ myanmarinvestmentsummit.com
 myanniu.com
 myapi.ashampoo.com
 myapkcdn.in
-myapotek.com
 myapple.pl
 myappleid.com
 myappzcenter.com
@@ -63777,7 +63770,6 @@ newyorkupstate.com
 newzfind.com
 newzgames.com
 newzit.com
-nex.163.com
 nex4.net
 nexac.com
 nexage.com
@@ -64287,7 +64279,6 @@ nitter.pussthecat.org
 nitter.snopyta.org
 nitto.com
 niu.moe
-niu8pz.com
 niu95992.com
 niubowang.com
 niuguwang.net.cn
@@ -64760,7 +64751,6 @@ nozakikun.tv
 nozhikov.ru
 nozonedata.com
 np.cpami.gov.tw
-np.updog.co
 np6.com
 np6.fr
 np7dksjwmdp34s29k4ggbs1qu7ybwh.ext-twitch.tv
@@ -68358,7 +68348,6 @@ partner.eviton.ru
 partner.fondsdiscount.de
 partner.get.net.daraz.com
 partner.gewinnspiele.de
-partner.haru-shop.jp
 partner.ixi.ua
 partner.loveplanet.ru
 partner.maxxim.de
@@ -70040,7 +70029,6 @@ pj7997.com
 pj8866.com
 pj886888.com
 pj8877.com
-pj98887.com
 pjbadh2.club
 pjbar.xyz
 pjbar2.xyz
@@ -72348,6 +72336,7 @@ pugetsoundhomeloansource.com
 pugpig.com
 puhtml.com
 puiwrs.misterspex.de
+pull-flv-l29.douyincdn.com
 pullfolio.com
 pullishy.ca
 pullmannortesur.cl
@@ -73283,7 +73272,6 @@ r.5207470.com
 r.ad1.ru
 r.akipam.com
 r.bbci.co.uk
-r.browser.miui.com
 r.dir.bg
 r.dlandroid.com
 r.edge.inmobicdn.net
@@ -77620,6 +77608,7 @@ scis.tbs.co.jp
 scitation.org
 scjimiao.com
 scjlpq.navitime.co.jp
+scjzlyxxpt.com
 sclub.tw
 scluster3.cliphunter.com
 scm-car10.net.daraz.com
@@ -83649,6 +83638,7 @@ ss.zhen-chen.xyz
 ss316.net
 ss3323.myweb.hinet.net
 ss626.net
+ss6456.com
 ss7.vzw.com
 ss733.net
 ss9874.com
@@ -87534,6 +87524,7 @@ taohuazu6.com
 taoism.net
 taojinhao.net
 taokuaiche.com
+taole1.com
 taos-na-prod.amazon.com
 taotao3.com
 taoyard.com
@@ -87689,7 +87680,6 @@ tbplay777.com
 tbr.tangbr.net
 tbrada.pw
 tbrc.org
-tbrum15.com
 tbs-rainbow.org
 tbs.com
 tbsc.apple.com
@@ -96287,6 +96277,7 @@ vols7feed.com
 voltamediahouse.com
 voltdb.com
 volunteerminister.org
+voluptuacity.com
 volusion.com
 voluumtrk.com
 volvo-truck.nl
@@ -110287,6 +110278,7 @@ zgqyb.com
 zgsc114.com
 zgsemi.cn
 zgumwv.stepstone.de
+zgwqgks.com
 zgwxoy.autoscout24.ro
 zgxga.com
 zgxht.com
