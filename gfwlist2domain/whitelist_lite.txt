@@ -747,7 +747,6 @@
 0car0.com
 0cdn.cn
 0ci.top
-0cneu2.com
 0ctrl.com
 0dayhack.net
 0dayku.com
@@ -2898,6 +2897,7 @@
 318ek.com
 31966.net
 3198.com
+3199.cn
 3199.com
 319n.com
 31alu.com
@@ -4478,7 +4478,6 @@
 51mrp.com
 51mta.com
 51mtw.com
-51mywellness.com
 51nac.com
 51nazhun.pub
 51nb.com
@@ -5713,7 +5712,6 @@
 602.com
 602img.com
 603ee.com
-6042.vip
 6046.com
 6046.net
 605-zy.com
@@ -11931,6 +11929,7 @@ biliapi.com
 biliapi.net
 bilibii.com
 bilibili.cc
+bilibili.cn
 bilibili.co
 bilibili.com
 bilibili.ru
@@ -17789,6 +17788,7 @@ copyan.com
 copyedu.com
 copyfuture.com
 copymanga.com
+copymanga.info
 copymanga.org
 corachic.com
 coralsec.com
@@ -22208,7 +22208,6 @@ efly.cc
 eflybird.com
 eflycloud.com
 eflydns.net
-eflyingfire.com
 efmac.org
 efnchina.com
 efotile.com
@@ -32825,7 +32824,6 @@ issconline.com
 issedu365.com
 isthnew.com
 istpei.com
-istreamsche.com
 istudyinchina.org
 istylepdf.com
 isudaji.com
@@ -33192,7 +33190,6 @@ iwoshang.com
 iwpai.com
 iwshang.com
 iwucha.com
-iwwacgx.cn
 iwwwwwi.com
 iwxapi.com
 iwyv.com
@@ -37990,7 +37987,6 @@ ldygo.com
 ldyh666.com
 le-feng.com
 le.com
-le1111.com
 le5le.com
 le890.com
 leachchen.com
@@ -40279,6 +40275,7 @@ m1905.cn
 m1905.com
 m1910.com
 m1938.com
+m19ud.cn
 m1ok.com
 m1page.com
 m1world.com
@@ -43138,7 +43135,6 @@ n1q.cn
 n21.cc
 n21ce.com
 n2v.net
-n3jh4.com
 n3sd.com
 n423.com
 n459.com
@@ -46819,7 +46815,6 @@ pzclw.cn
 pzds.com
 pzhccb.com
 pzhht.com
-pzhttaax.cn
 pzjdimg.com
 pzjiadian.com
 pzlink.com
@@ -63437,7 +63432,6 @@ xoyobox.com
 xoyocdn.com
 xoyq.net
 xp002.com
-xp0f4cj.cn
 xp5.com
 xp6000.com
 xp666.com
